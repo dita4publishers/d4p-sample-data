@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e403"><title>Platform or stage phase</title><body><p>If the first three phases yielded <indexterm>content<indexterm>platforms
             for</indexterm></indexterm>connections and a sense of community that you could tap for
           growing community-based documentation, your final phase might be to create a <indexterm>communities<indexterm>wikis supporting</indexterm></indexterm>wiki for your product,

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e256"><title>Syndicated content</title><body><p>podcast<indexterm>podcasts<indexterm>as syndicated content</indexterm></indexterm>, blog,
           web log, vlog<indexterm>vlog</indexterm>, video log<indexterm>video log</indexterm>, RSS,
           subscription, feeds, aggregation, news</p><p><indexterm>content<indexterm>syndicated</indexterm></indexterm>All of these terms are

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" "topic.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
 <topic id="d1e56"><title>1.7 Implicit Functions</title><body><p>
 An implicit definition of a function is one which does not present an explicit formula for its values but rather defines it by giving conditions that it satisfies. Thus its values must be inferred as consequences of the definition, so it is defined "by implication".
 </p><p>

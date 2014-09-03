@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" "topic.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
 <topic id="d1e27"><title>Section MO  Matrix Operations</title><body><p> From <xref href="http://linear.ups.edu/" scope="external" format="html"><ph outputclass="cmti-12">A First Course in Linear Algebra</ph></xref><br/>Version 2.30<br/><ph outputclass="cmsy-10x-x-120">©</ph> 2004.<br/>Licensed under the <xref href="http://www.gnu.org/licenses/fdl.html" scope="external" format="html">GNU Free Documentation License</xref>.<br/><xref href="http://linear.ups.edu/" scope="external" format="html"><ph outputclass="cmtt-12">http://linear.ups.edu/</ph></xref><br/><br/>  In this section we will back up and start simple. First a definition of a totally
 general set of matrices.
 </p><p><ph outputclass="cmbx-12">Definition</ph><ph outputclass="cmbx-12"> VSM</ph><br/><ph outputclass="cmbx-12">Vector Space of </ph><d4p_eqn_block><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>m</m:mi><m:mo class="MathClass-bin">×</m:mo><m:mi>n</m:mi></m:math></d4p_MathML></d4p_eqn_block>

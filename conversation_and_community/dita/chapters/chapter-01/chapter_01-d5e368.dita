@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e368"><title>Asynchronous conversations</title><body><p>Nearly all <indexterm>technical documentation<indexterm>benefiting from
               conversation</indexterm></indexterm>documentation can be considered an
             asynchronous<indexterm>asynchronous conversation</indexterm>

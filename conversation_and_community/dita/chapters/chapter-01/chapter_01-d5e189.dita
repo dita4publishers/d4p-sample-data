@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e189"><title>Search may affect delivery and presentation methods</title><body><p><indexterm>content<indexterm>searching for</indexterm></indexterm>Search technology and
           its application by users has changed the face and entry point to <indexterm>technical
               documentation<indexterm>searching</indexterm></indexterm>technical documentation. The

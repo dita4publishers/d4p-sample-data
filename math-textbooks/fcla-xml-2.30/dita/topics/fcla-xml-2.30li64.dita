@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" "topic.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
 <topic id="d1e27"><title>Section MMA  Mathematica</title><body><p> From <xref href="http://linear.ups.edu/" scope="external" format="html"><ph outputclass="cmti-12">A First Course in Linear Algebra</ph></xref><br/>Version 2.30<br/><ph outputclass="cmsy-10x-x-120">©</ph> 2004.<br/>Licensed under the <xref href="http://www.gnu.org/licenses/fdl.html" scope="external" format="html">GNU Free Documentation License</xref>.<br/><xref href="http://linear.ups.edu/" scope="external" format="html"><ph outputclass="cmtt-12">http://linear.ups.edu/</ph></xref><br/><br/> 
 </p></body><topic id="d1e59"><title>Computation Note ME.MMA: Matrix Entry</title><body><p>  Matrices are input as lists of lists, since a list is a basic data structure in <ph outputclass="cmsl-12">Mathematica</ph>.
 A matrix is a list of rows, with each row entered as a list. <ph outputclass="cmsl-12">Mathematica </ph>uses braces

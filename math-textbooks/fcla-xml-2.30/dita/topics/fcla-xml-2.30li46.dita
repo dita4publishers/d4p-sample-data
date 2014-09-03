@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" "topic.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
 <topic id="x47-216000"><title>Chapter E  Eigenvalues</title><body><p>   When we have a square matrix of size
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>n</m:mi></m:math></d4p_MathML></d4p_eqn_inline>,
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>A</m:mi></m:math></d4p_MathML></d4p_eqn_inline>, and we multiply

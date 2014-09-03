@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" "topic.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
 <topic id="d1e33"><title>Section SSLE  Solving Systems of Linear Equations</title><body><p> From <xref href="http://linear.ups.edu/" scope="external" format="html"><ph outputclass="cmti-12">A First Course in Linear Algebra</ph></xref><br/>Version 2.30<br/><ph outputclass="cmsy-10x-x-120">©</ph> 2004.<br/>Licensed under the <xref href="http://www.gnu.org/licenses/fdl.html" scope="external" format="html">GNU Free Documentation License</xref>.<br/><xref href="http://linear.ups.edu/" scope="external" format="html"><ph outputclass="cmtt-12">http://linear.ups.edu/</ph></xref><br/><br/>  We will motivate our study of linear algebra by considering the problem of
 solving several linear equations simultaneously. The word “solve” tends to
 get abused somewhat, as in “solve this problem.” When talking about

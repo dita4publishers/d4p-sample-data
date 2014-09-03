@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" "topic.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
 <topic id="x37-152000"><title>Chapter VS  Vector Spaces</title><body><p>   We now have a computational toolkit in place and so we can begin our study
 of linear algebra in a more theoretical style.
 </p><p>   Linear algebra is the study of two fundamental objects, vector spaces and

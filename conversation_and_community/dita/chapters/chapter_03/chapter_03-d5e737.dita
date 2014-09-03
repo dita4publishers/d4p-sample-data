@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e737"><title>Agile product development and the agile writer</title><prolog><metadata><keywords><indexterm>Agile development</indexterm></keywords></metadata></prolog><body><p>What development method does your team use? Agile development refers to a group of
           software development methods that incorporate user involvement into development. On an
           Agile team you use time-boxed iterations to deliver small features of potentially

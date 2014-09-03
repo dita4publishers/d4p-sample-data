@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e842"><title>Presence and location</title><body><p>BrightKite, Latitude, Twinkle, geo-spatial location awareness, poke<indexterm>poke</indexterm>, superpoke<indexterm>superpoke</indexterm>, status</p><p><indexterm>presence, online</indexterm>You may find it odd that there’s a function on web
           applications like Facebook to “poke” another user. On Twitter, you can “<indexterm>Twitter<indexterm>nudging</indexterm></indexterm>nudge” someone. It is basically a
           mechanism to get someone’s attention or to find out if they are online or not, indicated

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" "topic.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
 <topic id="x10-9000"><title>Notation</title><body><p><ph outputclass="cmbx-12x-x-207">Notation</ph>
 </p><p><xref keyref="fcla-xml-2.30li18/notation.M">M <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>A</m:mi></m:math></d4p_MathML></d4p_eqn_inline>  Matrix</xref><br/><xref keyref="fcla-xml-2.30li18/notation.MC">MC <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mfenced separators="" open="[" close="]"><m:mrow><m:mi>A</m:mi></m:mrow></m:mfenced></m:mrow><m:mrow><m:mi>i</m:mi><m:mi>j</m:mi></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_inline>  Matrix
 Components</xref><br/><xref keyref="fcla-xml-2.30li18/notation.CV">CV <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>v</m:mi></m:math></d4p_MathML></d4p_eqn_inline>  Column

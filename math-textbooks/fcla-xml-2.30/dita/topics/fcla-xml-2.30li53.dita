@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" "topic.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
 <topic id="d1e33"><title>Section SLT  Surjective Linear Transformations</title><body><p> From <xref href="http://linear.ups.edu/" scope="external" format="html"><ph outputclass="cmti-12">A First Course in Linear Algebra</ph></xref><br/>Version 2.30<br/><ph outputclass="cmsy-10x-x-120">©</ph> 2004.<br/>Licensed under the <xref href="http://www.gnu.org/licenses/fdl.html" scope="external" format="html">GNU Free Documentation License</xref>.<br/><xref href="http://linear.ups.edu/" scope="external" format="html"><ph outputclass="cmtt-12">http://linear.ups.edu/</ph></xref><br/><br/>  The companion to an injection is a surjection. Surjective linear transformations
 are closely related to spanning sets and ranges. So as you read this section reflect
 back on <xref keyref="fcla-xml-2.30li52/section.ILT">Section ILT</xref> and note the parallels and the contrasts. In the next section,

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e786"><title>Piloting and testing internal solution first</title><body><p>It is very easy to stumble while practicing the art of conversation and community, so you
           might want to try internal conversations first. For example, start an internal
             wiki<indexterm>wikis<indexterm>collaboration in</indexterm></indexterm> so that you and

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e406"><title>Introducing comment and feedback systems in user assistance</title><prolog><metadata><keywords><indexterm>comments<indexterm>enabling</indexterm></indexterm><indexterm>enabling</indexterm></keywords></metadata></prolog><body><p><indexterm>help, online<indexterm>comments in</indexterm></indexterm>Help authoring tools
           provide user feedback tools right inside of the topics that you author with the tool. Even
           a simple link to an email address on each help page so that readers can send email to a

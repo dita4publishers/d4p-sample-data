@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e373"><title>Content sharing phase</title><body><p>The content sharing phase may be as simple to implement as adding a <indexterm>Creative
             Commons license</indexterm>Creative Commons <indexterm>content<indexterm>licensing</indexterm></indexterm>license to your content to allow for share and share
           alike. Licensing your content with a Creating Commons license declares that your content

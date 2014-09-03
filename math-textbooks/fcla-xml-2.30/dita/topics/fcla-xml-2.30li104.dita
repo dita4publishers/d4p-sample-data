@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" "topic.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
 <topic id="x105-445000"><title>Chapter MD  Matrix Decompositions</title><body><p>   This chapter is about breaking up a matrix
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>A</m:mi></m:math></d4p_MathML></d4p_eqn_inline> into pieces that somehow
 combine to recreate <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>A</m:mi></m:math></d4p_MathML></d4p_eqn_inline>.

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e1053"><title>Measuring whether a documentation conversation works </title><body><p>This question, “But does documentation as conversation work?” stems from the <indexterm>metrics<indexterm>social media implementation</indexterm></indexterm>measurability
           equation. Those who are interested in website metrics and analytics often want some fancy
           tool to take care of the measurements for them. But, in reality, it is extremely difficult

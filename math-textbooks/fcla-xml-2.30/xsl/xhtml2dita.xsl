@@ -9,7 +9,7 @@
   version="2.0">
   
 
-  <xsl:output doctype-public="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" 
+  <xsl:output doctype-public="urn:pubid:dita4publishers.org:doctypes:dita:topic" 
     doctype-system="topic.dtd"
   />
   

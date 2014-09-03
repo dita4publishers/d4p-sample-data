@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e24"><title>Tagging</title><body><p>folksonomy, social bookmarking<indexterm>social bookmarking</indexterm>, tag
             clouds<indexterm>tag clouds</indexterm>, taxonomy</p><p><indexterm>content<indexterm>tagging</indexterm></indexterm>Tagging involves a skill with
           which many technical writers are familiar—determining which keywords best describe a blog

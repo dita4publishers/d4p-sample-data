@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" "topic.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
 <topic id="d1e56"><title>5.2 Representations of a Line or Plane: Preliminary Remarks</title><body><p>
 A single linear equation can be used to solve for one variable in terms of the others. It reduces the dimension of the set of its solutions by 1.
 </p><p>

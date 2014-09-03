@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" "topic.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
 <topic id="d1e27"><title>Section VR  Vector Representations</title><body><p> From <xref href="http://linear.ups.edu/" scope="external" format="html"><ph outputclass="cmti-12">A First Course in Linear Algebra</ph></xref><br/>Version 2.30<br/><ph outputclass="cmsy-10x-x-120">©</ph> 2004.<br/>Licensed under the <xref href="http://www.gnu.org/licenses/fdl.html" scope="external" format="html">GNU Free Documentation License</xref>.<br/><xref href="http://linear.ups.edu/" scope="external" format="html"><ph outputclass="cmtt-12">http://linear.ups.edu/</ph></xref><br/><br/>  We begin by establishing an invertible linear transformation between any vector space
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>V</m:mi></m:math></d4p_MathML></d4p_eqn_inline> of dimension
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>m</m:mi></m:math></d4p_MathML></d4p_eqn_inline> and

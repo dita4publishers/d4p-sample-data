@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e1268"><title>Mashups</title><body><p>Mashups, multimedia, machinima<indexterm>machinima</indexterm></p><p>A <indexterm>mashups</indexterm><indexterm>content<indexterm>combining</indexterm></indexterm>mashup is a recombination of two or more sources of
           data to create a new deliverable or service. A classic example of a mashup is a map
           mashup, in which map data is overlaid with other data, such as favorite restaurant

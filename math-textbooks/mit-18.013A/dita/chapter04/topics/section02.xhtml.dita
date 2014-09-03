@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" "topic.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
 <topic id="d1e56"><title>4.2 Matrices and Transformations on Vectors; the Meaning 
   of 0 Determinant</title><body><p>
 Matrices and determinants appear in two other important contexts; one is in solving simultaneous linear equations in several variables. The other is in representing linear transformations of vectors. The first of these is discussed in detail in

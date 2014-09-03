@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e518"><title>Pack carefully when moving content towards conversation </title><body><p>Technical writers have plenty of good reasons to avoid actual <indexterm>conversations<indexterm>enabling</indexterm></indexterm><indexterm>conversations<indexterm>avoiding</indexterm></indexterm>conversations with customers.
           We are not usually trained to handle an angry customer or to troubleshoot the product at
           the technical level that is necessary. But technical writers are typically good at

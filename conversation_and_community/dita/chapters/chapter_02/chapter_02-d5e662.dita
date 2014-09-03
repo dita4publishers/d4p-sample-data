@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE subsection
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection" "subsection.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:subsection" "subsection.dtd">
 <subsection id="d5e662"><title>Community </title><body><p>wiki, user-based content, crowdsourcing<indexterm>crowdsourcing</indexterm>, discussion </p><p>Community-based content can be a <indexterm>collaboration<indexterm>community</indexterm></indexterm>collaborative effort on a website, or an email
             <indexterm>mailing lists<indexterm>community-based content</indexterm></indexterm>list
           that has a core set of members contributing information that furthers the <indexterm>community-generated content<indexterm>wikis and</indexterm></indexterm>community‘s

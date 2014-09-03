@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:topic" "topic.dtd">
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
 <topic id="d1e56"><title>6.3 Examples of non Differentiable Behavior</title><body><p>
 A function which jumps is not differentiable at the jump nor is one which has a cusp, like 
 <d4p_eqn_inline>
