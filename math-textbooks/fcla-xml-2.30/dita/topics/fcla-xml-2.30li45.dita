@@ -342,7 +342,7 @@ the coefficient matrix <xref keyref="fcla-xml-2.30li74/archetype.B">Archetype B
 These matrices are singular and nonsingular, respectively. This is exactly what
 <xref href="#theorem.SMZD">Theorem SMZD</xref> says, and continues our list of contrasts between these two archetypes.
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="MathClass-bin">⊠</m:mo></m:math></d4p_MathML></d4p_eqn_inline>
-</p><p>   Since <xref keyref="#theorem.SMZD">Theorem SMZD</xref> is an equivalence (<xref keyref="fcla-xml-2.30li71/technique.E">Technique E</xref>) we can expand on our
+</p><p>   Since <xref keyref="theorem.SMZD">Theorem SMZD</xref> is an equivalence (<xref keyref="fcla-xml-2.30li71/technique.E">Technique E</xref>) we can expand on our
 growing list of equivalences about nonsingular matrices. The addition of the condition
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="qopname"> det</m:mo><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>A</m:mi></m:mrow></m:mfenced><m:mo class="MathClass-rel">≠</m:mo><m:mn>0</m:mn></m:math></d4p_MathML></d4p_eqn_inline> is one
 of the best motivations for learning about determinants.
@@ -384,7 +384,7 @@ the same size. Then <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.o
 </p><p><ph outputclass="cmbx-12">Proof</ph>   This proof is constructed in two cases. First, suppose that
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>A</m:mi></m:math></d4p_MathML></d4p_eqn_inline> is singular.
 Then <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="qopname"> det</m:mo><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>A</m:mi></m:mrow></m:mfenced><m:mo class="MathClass-rel">=</m:mo><m:mn>0</m:mn></m:math></d4p_MathML></d4p_eqn_inline>
-by <xref keyref="#theorem.SMZD">Theorem SMZD</xref>. By the contrapositive of <xref keyref="fcla-xml-2.30li33/theorem.NPNT">Theorem NPNT</xref>,
+by <xref keyref="theorem.SMZD">Theorem SMZD</xref>. By the contrapositive of <xref keyref="fcla-xml-2.30li33/theorem.NPNT">Theorem NPNT</xref>,
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>A</m:mi><m:mi>B</m:mi></m:math></d4p_MathML></d4p_eqn_inline>
 is singular as well. So by a second application of<xref href="#theorem.SMZD">Theorem SMZD</xref>,
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="qopname"> det</m:mo><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow></m:mfenced><m:mo class="MathClass-rel">=</m:mo><m:mn>0</m:mn></m:math></d4p_MathML></d4p_eqn_inline>.
@@ -441,7 +441,7 @@ and <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/Mat
 Prove that <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="qopname"> det</m:mo><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>α</m:mi><m:mi>A</m:mi></m:mrow></m:mfenced><m:mo class="MathClass-rel">=</m:mo><m:msup><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow><m:mi>n</m:mi></m:mrow></m:msup><m:mo class="qopname"> det</m:mo><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>A</m:mi></m:mrow></m:mfenced></m:math></d4p_MathML></d4p_eqn_inline>.
  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
 </p><p><ph outputclass="cmbx-12">T25</ph>   Employ <xref keyref="fcla-xml-2.30li44/theorem.DT">Theorem DT</xref> to construct the second half of the proof of
-<xref keyref="#theorem.DRCM">Theorem DRCM</xref> (the portion about a multiple of a column).  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
+<xref keyref="theorem.DRCM">Theorem DRCM</xref> (the portion about a multiple of a column).  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
                                                                           
 
                                                                           
@@ -468,7 +468,7 @@ prove you can expand about any row (and with <xref keyref="fcla-xml-2.30li44/the
 any column). Amazing. If the determinant seems contrived, these results
 might begin to convince you that maybe something interesting is going
 on.
-</p><p><xref keyref="#theorem.DRMM">Theorem DRMM</xref><br/><xref keyref="fcla-xml-2.30li44/theorem.EMDRO">Theorem EMDRO</xref> connects elementary matrices with matrix multiplication. Now
+</p><p><xref keyref="theorem.DRMM">Theorem DRMM</xref><br/><xref keyref="fcla-xml-2.30li44/theorem.EMDRO">Theorem EMDRO</xref> connects elementary matrices with matrix multiplication. Now
 we connect determinants with matrix multiplication. If you thought the definition
 of matrix multiplication (as exemplified by <xref keyref="fcla-xml-2.30li31/theorem.EMP">Theorem EMP</xref>) was as outlandish as
 the definition of the determinant, then no more. They seem to play together quite

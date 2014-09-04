@@ -307,7 +307,7 @@ is a square matrix. Using the definition of reduced row-echelon form
 (<xref keyref="fcla-xml-2.30li18/definition.RREF">Definition RREF</xref>) carefully, give a proof of the following equivalence: Every column of
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>A</m:mi></m:math></d4p_MathML></d4p_eqn_inline> is a pivot column
 if and only if <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>A</m:mi></m:math></d4p_MathML></d4p_eqn_inline>
-is the identity matrix (<xref keyref="#definition.IM">Definition IM</xref>).  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
+is the identity matrix (<xref keyref="definition.IM">Definition IM</xref>).  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
 </p><p><ph outputclass="cmbx-12">T30</ph>   Suppose that <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>A</m:mi></m:math></d4p_MathML></d4p_eqn_inline> is a
                                                                           
 

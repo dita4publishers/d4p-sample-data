@@ -801,7 +801,7 @@ as the sum of linear transformations (<xref keyref="fcla-xml-2.30li51/definition
 repeated composition of linear transformations (<xref keyref="fcla-xml-2.30li51/definition.LTC">Definition LTC</xref>). Prove that
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>T</m:mi><m:mo class="MathClass-bin">∘</m:mo><m:mi>p</m:mi><m:mrow><m:mo class="MathClass-open">(</m:mo><m:mrow><m:mi>T</m:mi></m:mrow><m:mo class="MathClass-close">)</m:mo></m:mrow><m:mo class="MathClass-rel">=</m:mo><m:mi>p</m:mi><m:mrow><m:mo class="MathClass-open">(</m:mo><m:mrow><m:mi>T</m:mi></m:mrow><m:mo class="MathClass-close">)</m:mo></m:mrow><m:mo class="MathClass-bin">∘</m:mo><m:mi>T</m:mi></m:math></d4p_MathML></d4p_eqn_inline>.
 </p><p>   Use this observation to give a shorter argument for the proof of the invariance
-of the generalized eigenspace in <xref keyref="#theorem.GESIS">Theorem GESIS</xref>.  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
+of the generalized eigenspace in <xref keyref="theorem.GESIS">Theorem GESIS</xref>.  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
                                                                           
 
                                                                           

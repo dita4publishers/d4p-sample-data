@@ -265,11 +265,11 @@ be an arbitrary scalar.
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="MathClass-ord">□</m:mo></m:math></d4p_MathML></d4p_eqn_inline>
  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BlackChris">Chris Black</xref>    <xref href="#solution.VO.T7">Solution</xref> [<xref href="#x24-66000doc">279</xref>]
 </p><p><ph outputclass="cmbx-12">T13</ph>   Prove <xref href="#property.CC">Property CC</xref> of <xref href="#theorem.VSPCV">Theorem VSPCV</xref>. Write your proof in the style of
-the proof of <xref keyref="#property.DSAC">Property DSAC</xref> given in this section.  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>    <xref href="#solution.VO.T13">Solution</xref> [<xref href="#x24-66000doc">279</xref>]
+the proof of <xref keyref="property.DSAC">Property DSAC</xref> given in this section.  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>    <xref href="#solution.VO.T13">Solution</xref> [<xref href="#x24-66000doc">279</xref>]
 </p><p><ph outputclass="cmbx-12">T17</ph>   Prove <xref href="#property.SMAC">Property SMAC</xref> of <xref href="#theorem.VSPCV">Theorem VSPCV</xref>. Write your proof in the style
-of the proof of <xref keyref="#property.DSAC">Property DSAC</xref> given in this section.  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
+of the proof of <xref keyref="property.DSAC">Property DSAC</xref> given in this section.  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
 </p><p><ph outputclass="cmbx-12">T18</ph>   Prove <xref href="#property.DVAC">Property DVAC</xref> of <xref href="#theorem.VSPCV">Theorem VSPCV</xref>. Write your proof in the style
-of the proof of <xref keyref="#property.DSAC">Property DSAC</xref> given in this section.  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
+of the proof of <xref keyref="property.DSAC">Property DSAC</xref> given in this section.  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
 </p><p><ph outputclass="cmbx-12">T30</ph>   Suppose <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>u</m:mi></m:math></d4p_MathML></d4p_eqn_inline>
 and <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>v</m:mi></m:math></d4p_MathML></d4p_eqn_inline> are two
 vectors in <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msup><m:mrow><m:mi>ℂ</m:mi></m:mrow><m:mrow><m:mi>m</m:mi></m:mrow></m:msup></m:math></d4p_MathML></d4p_eqn_inline>.
@@ -289,7 +289,7 @@ vector subtraction obeys a distributive property. Specifically, prove that
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>α</m:mi><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>u</m:mi><m:mo class="MathClass-bin">−</m:mo><m:mi>v</m:mi></m:mrow></m:mfenced><m:mo class="MathClass-rel">=</m:mo><m:mi>α</m:mi><m:mi>u</m:mi><m:mo class="MathClass-bin">−</m:mo><m:mi>α</m:mi><m:mi>v</m:mi></m:math></d4p_MathML></d4p_eqn_inline>.
 </p><p>   Can you give two different proofs? Base one on the definition given in
 <xref href="#exercise.VO.T30">Exercise VO.T30</xref> and base the other on the equivalent formulation proved in
-<xref keyref="#exercise.VO.T30">Exercise VO.T30</xref>.  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
+<xref keyref="exercise.VO.T30">Exercise VO.T30</xref>.  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
                                                                           
 
                                                                           

@@ -95,11 +95,11 @@ could think of this entire theorem as a corollary of <xref keyref="fcla-xml-2.30
 <xref keyref="fcla-xml-2.30li71/technique.LC">Technique LC</xref>.) The proofs of the third and fourth parts parallel each other in style
 (add <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>w</m:mi></m:math></d4p_MathML></d4p_eqn_inline>,
 toss <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>v</m:mi></m:mrow><m:mrow><m:mi>k</m:mi></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_inline>)
-and then turn on <xref keyref="#theorem.ELIS">Theorem ELIS</xref> before contradicting <xref keyref="fcla-xml-2.30li41/theorem.SSLD">Theorem SSLD</xref>.
+and then turn on <xref keyref="theorem.ELIS">Theorem ELIS</xref> before contradicting <xref keyref="fcla-xml-2.30li41/theorem.SSLD">Theorem SSLD</xref>.
 </p><p>   <xref href="#theorem.G">Theorem G</xref> is useful in both concrete examples and as a tool in other
 proofs. We will use it often to bypass verifying linear independence or
 spanning.
-</p><p><ph outputclass="cmbx-12">Example</ph><ph outputclass="cmbx-12"> BPR</ph><br/><ph outputclass="cmbx-12">Bases for </ph><d4p_eqn_block><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>P</m:mi></m:mrow><m:mrow><m:mi>n</m:mi></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_block><ph outputclass="cmbx-12">,</ph>
+</p><p><ph outputclass="cmbx-12">Example</ph><ph outputclass="cmbx-12"> BPR</ph><br/><ph outputclass="cmbx-12">Bases for </ph><d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>P</m:mi></m:mrow><m:mrow><m:mi>n</m:mi></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_inline><ph outputclass="cmbx-12">,</ph>
 <ph outputclass="cmbx-12">reprised</ph><br/> In <xref keyref="fcla-xml-2.30li40/example.BP">Example BP</xref> we claimed that
                                                                           
 
@@ -120,7 +120,7 @@ since <xref href="#theorem.G">Theorem G</xref> would allow us to conclude this 
 be able to say that <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>C</m:mi></m:math></d4p_MathML></d4p_eqn_inline>
 is a basis of <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>P</m:mi></m:mrow><m:mrow><m:mi>n</m:mi></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_inline>
 also. <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="MathClass-bin">⊠</m:mo></m:math></d4p_MathML></d4p_eqn_inline>
-</p><p><ph outputclass="cmbx-12">Example</ph><ph outputclass="cmbx-12"> BDM22</ph><br/><ph outputclass="cmbx-12">Basis by dimension in </ph><d4p_eqn_block><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>M</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mn>2</m:mn></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_block><br/> In <xref keyref="fcla-xml-2.30li41/example.DSM22">Example DSM22</xref> we showed that </p><table><tgroup cols="1"><tbody><row><entry>
+</p><p><ph outputclass="cmbx-12">Example</ph><ph outputclass="cmbx-12"> BDM22</ph><br/><ph outputclass="cmbx-12">Basis by dimension in </ph><d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>M</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mn>2</m:mn></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_inline><br/> In <xref keyref="fcla-xml-2.30li41/example.DSM22">Example DSM22</xref> we showed that </p><table><tgroup cols="1"><tbody><row><entry>
                                                                           
 
                                                                           
@@ -147,7 +147,7 @@ the only solution, the set is linearly independent. Now we can apply <xref href=
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>Z</m:mi></m:math></d4p_MathML></d4p_eqn_inline> and therefore is a
 second basis for <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>Z</m:mi></m:math></d4p_MathML></d4p_eqn_inline>.
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="MathClass-bin">⊠</m:mo></m:math></d4p_MathML></d4p_eqn_inline>
-</p><p><ph outputclass="cmbx-12">Example</ph><ph outputclass="cmbx-12"> SVP4</ph><br/><ph outputclass="cmbx-12">Sets of vectors in </ph><d4p_eqn_block><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>P</m:mi></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_block><br/> In <xref keyref="fcla-xml-2.30li40/example.BSP4">Example BSP4</xref> we showed that </p><table><tgroup cols="1"><tbody><row><entry>
+</p><p><ph outputclass="cmbx-12">Example</ph><ph outputclass="cmbx-12"> SVP4</ph><br/><ph outputclass="cmbx-12">Sets of vectors in </ph><d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>P</m:mi></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_inline><br/> In <xref keyref="fcla-xml-2.30li40/example.BSP4">Example BSP4</xref> we showed that </p><table><tgroup cols="1"><tbody><row><entry>
                                                                           
 
                                                                           
@@ -496,7 +496,7 @@ if and only if
 only need to establish the equivalence of the second conditions.
 </p><p>   (<d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="MathClass-rel">⇒</m:mo></m:math></d4p_MathML></d4p_eqn_inline>) Assume
 that <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>V</m:mi><m:mo class="MathClass-rel">=</m:mo><m:mi>U</m:mi><m:mo class="MathClass-bin">⊕</m:mo><m:mi>W</m:mi></m:math></d4p_MathML></d4p_eqn_inline>,
-according to <xref keyref="#definition.DS">Definition DS</xref>. By <xref keyref="fcla-xml-2.30li37/property.Z">Property Z</xref> and <xref keyref="fcla-xml-2.30li70/definition.SI">Definition SI</xref>,
+according to <xref keyref="definition.DS">Definition DS</xref>. By <xref keyref="fcla-xml-2.30li37/property.Z">Property Z</xref> and <xref keyref="fcla-xml-2.30li70/definition.SI">Definition SI</xref>,
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mfenced separators="" open="{" close="}"><m:mrow><m:mn>0</m:mn></m:mrow></m:mfenced><m:mo class="MathClass-rel">⊆</m:mo><m:mi>U</m:mi><m:mo class="MathClass-bin">∩</m:mo><m:mi>W</m:mi></m:math></d4p_MathML></d4p_eqn_inline>.
 To establish the opposite inclusion, suppose that
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi><m:mo class="MathClass-rel">∈</m:mo><m:mi>U</m:mi><m:mo class="MathClass-bin">∩</m:mo><m:mi>W</m:mi></m:math></d4p_MathML></d4p_eqn_inline>. Then, since
@@ -700,7 +700,7 @@ roll up three theorems into one compact, logically equivalent statement.)
  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>
 </p><p><ph outputclass="cmbx-12">T10</ph>   Prove the following theorem, which could be viewed as a reformulation of
 parts (3) and (4) of <xref href="#theorem.G">Theorem G</xref>, or more appropriately as a corollary of
-<xref keyref="#theorem.G">Theorem G</xref> (<xref keyref="fcla-xml-2.30li71/technique.LC">Technique LC</xref>).
+<xref keyref="theorem.G">Theorem G</xref> (<xref keyref="fcla-xml-2.30li71/technique.LC">Technique LC</xref>).
 </p><p>   Suppose <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>V</m:mi></m:math></d4p_MathML></d4p_eqn_inline> is a vector
 space and <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>S</m:mi></m:math></d4p_MathML></d4p_eqn_inline> is a subset of
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>V</m:mi></m:math></d4p_MathML></d4p_eqn_inline> such that the number

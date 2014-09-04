@@ -137,7 +137,7 @@ is the natural extension of this idea. Notice that
 the minimum number of elements to be a field, since any field must contain a zero
 and a one (<xref href="#property.ZF">Property ZF</xref>, <xref href="#property.OF">Property OF</xref>).
 </p><p><ph outputclass="cmbx-12">Example</ph><ph outputclass="cmbx-12"> SM2Z7</ph><br/><ph outputclass="cmbx-12">Symmetric matrices of size 2 over</ph>
-<d4p_eqn_block><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>ℤ</m:mi></m:mrow><m:mrow><m:mn>7</m:mn></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_block><br/> We can employ the field of integers modulo a prime to build other examples of
+<d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>ℤ</m:mi></m:mrow><m:mrow><m:mn>7</m:mn></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_inline><br/> We can employ the field of integers modulo a prime to build other examples of
 vector spaces with novel fields of scalars. Define
                                                                           
 

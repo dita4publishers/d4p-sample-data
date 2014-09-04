@@ -14,7 +14,7 @@
 <!--                                                               -->
 <!--  Refer to this file by the following public identifier or an 
       appropriate system identifier 
-PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:dtd:playmap"
+PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:dtd:playmap"
       Delivered as file "playmap.dtd"                               -->
  
 <!-- ============================================================= -->
@@ -29,7 +29,7 @@ PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:dtd:playmap"
 <!-- ============================================================= -->
 
 <!ENTITY % playmap-dec     
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:entities:dtd:playmap" 
+  PUBLIC "urn:pubid:dita4publishers.org:entities:dtd:playmap" 
          "playmap.ent"
 >%playmap-dec;
 
@@ -45,27 +45,27 @@ PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:dtd:playmap"
 
 <!ENTITY % pubmap-d-dec 
                         PUBLIC 
-"urn:pubid:dita4publishers.sourceforge.net:entities:dtd:pubmapDomain" 
+"urn:pubid:dita4publishers.org:entities:dtd:pubmapDomain" 
 "pubmapDomain.ent"                                                 
 >
 %pubmap-d-dec;
 
 <!ENTITY % pubmapMapref-d-dec 
                         PUBLIC 
-"urn:pubid:dita4publishers.sourceforge.net:entities:dtd:pubmapMaprefDomain" 
+"urn:pubid:dita4publishers.org:entities:dtd:pubmapMaprefDomain" 
 "pubmapMaprefDomain.ent"                                                 
 >
 %pubmapMapref-d-dec;
 
 <!ENTITY % pubmeta-d-dec 
                         PUBLIC 
-"urn:pubid:dita4publishers.sourceforge.net:entities:dtd:pubmetadataDomain" 
+"urn:pubid:dita4publishers.org:entities:dtd:pubmetadataDomain" 
 "pubmetadataDomain.ent"                                                 
 >
 %pubmeta-d-dec;
 
 <!ENTITY % d4p_simpleEnumeration-d-dec     PUBLIC 
-"urn:pubid:dita4publishers.sourceforge.net:entities:dtd:dita:d4p_simpleEnumerationDomain:entities" 
+"urn:pubid:dita4publishers.org:entities:dtd:dita:d4p_simpleEnumerationDomain:entities" 
 "d4p_simpleEnumerationDomain.ent"                                                
 >
 %d4p_simpleEnumeration-d-dec;
@@ -81,7 +81,7 @@ PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:dtd:playmap"
 <!-- ============================================================= -->
 
 <!ENTITY % d4p_renditionTargetAtt-d-dec     
-  PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:modules:d4p_renditionTargetAttDomain:entities" 
+  PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:modules:d4p_renditionTargetAttDomain:entities" 
          "d4p_renditionTargetAttDomain.ent"                                                
 >
 %d4p_renditionTargetAtt-d-dec;
@@ -148,23 +148,23 @@ PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:dtd:playmap"
 %mapgroup-d-def;
 
 <!ENTITY % pubmap-d-def PUBLIC 
-"urn:pubid:dita4publishers.sourceforge.net:modules:dtd:pubmapDomain" 
+"urn:pubid:dita4publishers.org:modules:dtd:pubmapDomain" 
 "pubmapDomain.mod"                                                        >
 %pubmap-d-def;
 
 <!ENTITY % pubmapMapref-d-def PUBLIC 
-"urn:pubid:dita4publishers.sourceforge.net:modules:dtd:pubmapMaprefDomain" 
+"urn:pubid:dita4publishers.org:modules:dtd:pubmapMaprefDomain" 
 "pubmapMaprefDomain.mod"                                                        >
 %pubmapMapref-d-def;
 
 <!ENTITY % pubmeta-d-def PUBLIC 
-"urn:pubid:dita4publishers.sourceforge.net:modules:dtd:pubmetadataDomain" 
+"urn:pubid:dita4publishers.org:modules:dtd:pubmetadataDomain" 
 "pubmetadataDomain.mod"                                                        >
 %pubmeta-d-def;
 
 
 <!ENTITY % playmap-type PUBLIC 
-"urn:pubid:dita4publishers.sourceforge.net:modules:dtd:playmap" 
+"urn:pubid:dita4publishers.org:modules:dtd:playmap" 
 "playmap.mod"                                                        >
 %playmap-type;
 
@@ -173,7 +173,7 @@ PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:dtd:playmap"
 <!-- ============================================================= -->
 
 <!ENTITY % d4p_simpleEnumeration-d-def     PUBLIC 
-"urn:pubid:dita4publishers.sourceforge.net:modules:dita:modules:d4p_simpleEnumerationDomain" 
+"urn:pubid:dita4publishers.org:modules:dita:modules:d4p_simpleEnumerationDomain" 
 "d4p_simpleEnumeration.mod"
 >
 %d4p_simpleEnumeration-d-def;

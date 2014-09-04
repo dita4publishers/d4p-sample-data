@@ -277,7 +277,7 @@ so that <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math
 i.e. <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>T</m:mi></m:math></d4p_MathML></d4p_eqn_inline> is
 surjective. <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="MathClass-ord">■</m:mo></m:math></d4p_MathML></d4p_eqn_inline>
 </p><p><ph outputclass="cmbx-12">Example</ph><ph outputclass="cmbx-12"> NSAQR</ph><br/><ph outputclass="cmbx-12">Not surjective, Archetype Q, revisited</ph><br/> We are now in a position to revisit our first example in this section,
-<xref keyref="#example.NSAQ">Example NSAQ</xref>. In that example, we showed that <xref keyref="fcla-xml-2.30li89/archetype.Q">Archetype Q</xref> is not
+<xref keyref="example.NSAQ">Example NSAQ</xref>. In that example, we showed that <xref keyref="fcla-xml-2.30li89/archetype.Q">Archetype Q</xref> is not
 surjective by constructing a vector in the codomain where no element of the
 domain could be used to evaluate the linear transformation to create the
 output, thus violating <xref href="#definition.SLT">Definition SLT</xref>. Just where did this vector come
@@ -316,7 +316,7 @@ in <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/Math
 yet not in the range. For every one of the archetypes that is not
 surjective, there is an example presented of exactly this form.
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="MathClass-bin">⊠</m:mo></m:math></d4p_MathML></d4p_eqn_inline>
-</p><p><ph outputclass="cmbx-12">Example</ph><ph outputclass="cmbx-12"> NSAO</ph><br/><ph outputclass="cmbx-12">Not surjective, Archetype O</ph><br/> In <xref keyref="#example.RAO">Example RAO</xref> the range of <xref keyref="fcla-xml-2.30li87/archetype.O">Archetype O</xref> was determined to be </p><table><tgroup cols="1"><tbody><row><entry>
+</p><p><ph outputclass="cmbx-12">Example</ph><ph outputclass="cmbx-12"> NSAO</ph><br/><ph outputclass="cmbx-12">Not surjective, Archetype O</ph><br/> In <xref keyref="example.RAO">Example RAO</xref> the range of <xref keyref="fcla-xml-2.30li87/archetype.O">Archetype O</xref> was determined to be </p><table><tgroup cols="1"><tbody><row><entry>
                                                                           
 
                                                                           

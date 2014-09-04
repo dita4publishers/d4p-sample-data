@@ -507,7 +507,7 @@ collected in <xref keyref="fcla-xml-2.30li42/subsection.PD.DS">Subsection PD.DS
 first (this is what we meant by “starting at the wrong end”).
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi mathvariant="bold-script">K</m:mi><m:mspace width="0.3em" class="thinspace"/><m:mfenced separators="" open="(" close=")"><m:mrow><m:msup><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow><m:mi>p</m:mi><m:mo class="MathClass-bin">−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:mfenced></m:math></d4p_MathML></d4p_eqn_inline> is a proper
 subspace of <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi mathvariant="bold-script">K</m:mi><m:mspace width="0.3em" class="thinspace"/><m:mfenced separators="" open="(" close=")"><m:mrow><m:msup><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow><m:mi>p</m:mi></m:mrow></m:msup></m:mrow></m:mfenced><m:mo class="MathClass-rel">=</m:mo><m:mi>V</m:mi></m:math></d4p_MathML></d4p_eqn_inline>
-(<xref keyref="#theorem.KPNLT">Theorem KPNLT</xref>). <xref keyref="fcla-xml-2.30li42/theorem.DSFOS">Theorem DSFOS</xref> says that there is a subspace of
+(<xref keyref="theorem.KPNLT">Theorem KPNLT</xref>). <xref keyref="fcla-xml-2.30li42/theorem.DSFOS">Theorem DSFOS</xref> says that there is a subspace of
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>V</m:mi></m:math></d4p_MathML></d4p_eqn_inline> that will pair with
 the subspace <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi mathvariant="bold-script">K</m:mi><m:mspace width="0.3em" class="thinspace"/><m:mfenced separators="" open="(" close=")"><m:mrow><m:msup><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow><m:mi>p</m:mi><m:mo class="MathClass-bin">−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:mfenced></m:math></d4p_MathML></d4p_eqn_inline> to
 form a direct sum of <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>V</m:mi></m:math></d4p_MathML></d4p_eqn_inline>.
@@ -809,7 +809,7 @@ before their inputs, excepting the start of each row, which was an element of
 
                                                                           
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="MathClass-ord">■</m:mo></m:math></d4p_MathML></d4p_eqn_inline>
-</p><p>   The proof of <xref keyref="#theorem.CFNLT">Theorem CFNLT</xref> is constructive (<xref keyref="fcla-xml-2.30li71/technique.C">Technique C</xref>), so we can use it
+</p><p>   The proof of <xref keyref="theorem.CFNLT">Theorem CFNLT</xref> is constructive (<xref keyref="fcla-xml-2.30li71/technique.C">Technique C</xref>), so we can use it
 to create bases of nilpotent linear transformations with pleasing matrix
 representations. Recall that <xref href="#theorem.DNLT">Theorem DNLT</xref> told us that nilpotent linear
 transformations are almost never diagonalizable, so this is progress. As we have

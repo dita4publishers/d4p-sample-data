@@ -715,7 +715,7 @@ and applying theorems whose hypotheses include the row-equivalence of
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>B</m:mi></m:math></d4p_MathML></d4p_eqn_inline>.
 </p><p>   After some practice by hand, you will want to use your favorite computing
 device to do the computations required to bring a matrix to reduced
-row-echelon form (<xref keyref="#exercise.RREF.C30">Exercise RREF.C30</xref>).  See:    <xref keyref="fcla-xml-2.30li64/computation.RR.MMA">Computation RR.MMA</xref>
+row-echelon form (<xref keyref="exercise.RREF.C30">Exercise RREF.C30</xref>).  See:    <xref keyref="fcla-xml-2.30li64/computation.RR.MMA">Computation RR.MMA</xref>
 <xref keyref="fcla-xml-2.30li65/computation.RR.TI86">Computation RR.TI86</xref>   <xref keyref="fcla-xml-2.30li66/computation.RR.TI83">Computation RR.TI83</xref>    <xref keyref="fcla-xml-2.30li67/computation.RR.SAGE">Computation RR.SAGE</xref>
 </p></body></topic><topic id="d1e13687"><title>Subsection READ: Reading Questions</title><body/></topic><topic id="d1e13934"><title>Subsection EXC: Exercises</title><body><p>   <ph outputclass="cmbx-12">C05</ph>   Each archetype below is a system of equations. Form the augmented
 matrix of the system of equations, convert the matrix to reduced row-echelon form

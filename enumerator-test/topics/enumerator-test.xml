@@ -6,8 +6,8 @@
     <d4pEnumerator>
       <!-- Specifies the specific enumeration stream this enumerator is part of. 
            The value is a "stream name", e.g., "partNumber", "chapterNumber", etc.
-      -->
-      <dp4EnumeratorStream value="partNumber"/>
+      -->      
+      <d4pEnumeratorStream value="partNumber"/>
       <!-- The ordinal value of the enumerator. This value is intended to capture
         values that should not be generated, e.g., values in original documents
         the markup intends to represent exactly.           
@@ -33,7 +33,7 @@
   <topic
     id="topic_0e777c1f-aab0-4e6e-8831-7d4f647ce68f">
     <title><d4pEnumerator>
-      <dp4EnumeratorStream
+      <d4pEnumeratorStream
         value="sectionNumber"/>
       <d4pEnumeratorOrdinalValue
         value="1"

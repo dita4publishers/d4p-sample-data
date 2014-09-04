@@ -223,7 +223,7 @@ matrices. Fortunately there are better ways. However this does suggest an
 excellent computer programming exercise to write a recursive procedure to
 compute a determinant.
 </p><p>   Let’s compute the determinant of a reasonable sized matrix by hand.
-</p><p><ph outputclass="cmbx-12">Example</ph><ph outputclass="cmbx-12"> D33M</ph><br/><ph outputclass="cmbx-12">Determinant of a </ph><d4p_eqn_block><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mn>3</m:mn><m:mo class="MathClass-bin">×</m:mo><m:mn>3</m:mn></m:math></d4p_MathML></d4p_eqn_block>
+</p><p><ph outputclass="cmbx-12">Example</ph><ph outputclass="cmbx-12"> D33M</ph><br/><ph outputclass="cmbx-12">Determinant of a </ph><d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mn>3</m:mn><m:mo class="MathClass-bin">×</m:mo><m:mn>3</m:mn></m:math></d4p_MathML></d4p_eqn_inline>
 <ph outputclass="cmbx-12">matrix</ph><br/> Suppose that we have the <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mn>3</m:mn><m:mo class="MathClass-bin">×</m:mo><m:mn>3</m:mn></m:math></d4p_MathML></d4p_eqn_inline>
 matrix</p><table><tgroup cols="1"><tbody><row><entry>
                                                                           
@@ -298,7 +298,7 @@ row.
 square matrix. Then <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="qopname"> det</m:mo><m:mfenced separators="" open="(" close=")"><m:mrow><m:msup><m:mrow><m:mi>A</m:mi></m:mrow><m:mrow><m:mi>t</m:mi></m:mrow></m:msup></m:mrow></m:mfenced><m:mo class="MathClass-rel">=</m:mo><m:mo class="qopname"> det</m:mo><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>A</m:mi></m:mrow></m:mfenced></m:math></d4p_MathML></d4p_eqn_inline>.
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="MathClass-ord">□</m:mo></m:math></d4p_MathML></d4p_eqn_inline>
 </p><p><ph outputclass="cmbx-12">Proof</ph>   With our definition of the determinant (<xref href="#definition.DM">Definition DM</xref>) and
-theorems like <xref keyref="#theorem.DER">Theorem DER</xref>, using induction (<xref keyref="fcla-xml-2.30li71/technique.I">Technique I</xref>) is a natural
+theorems like <xref keyref="theorem.DER">Theorem DER</xref>, using induction (<xref keyref="fcla-xml-2.30li71/technique.I">Technique I</xref>) is a natural
 approach to proving properties of determinants. And so it is here. Let
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>n</m:mi></m:math></d4p_MathML></d4p_eqn_inline> be the size of the
 matrix <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>A</m:mi></m:math></d4p_MathML></d4p_eqn_inline>, and we will

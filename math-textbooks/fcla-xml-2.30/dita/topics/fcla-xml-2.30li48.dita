@@ -87,7 +87,7 @@ equivalences about nonsingular matrices.
 square matrix of size <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>n</m:mi></m:math></d4p_MathML></d4p_eqn_inline>.
 The following are equivalent.
      </p><d4p_eqn_block><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="MathClass-ord">□</m:mo></m:math></d4p_MathML></d4p_eqn_block><p><ph outputclass="cmbx-12">Proof</ph>   The equivalence of the first and last statements is the contrapositive
-of <xref keyref="#theorem.SMZE">Theorem SMZE</xref>, so we are able to improve on <xref keyref="fcla-xml-2.30li45/theorem.NME7">Theorem NME7</xref>.
+of <xref keyref="theorem.SMZE">Theorem SMZE</xref>, so we are able to improve on <xref keyref="fcla-xml-2.30li45/theorem.NME7">Theorem NME7</xref>.
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="MathClass-ord">■</m:mo></m:math></d4p_MathML></d4p_eqn_inline>
 </p><p>   Certain changes to a matrix change its eigenvalues in a predictable
 way.

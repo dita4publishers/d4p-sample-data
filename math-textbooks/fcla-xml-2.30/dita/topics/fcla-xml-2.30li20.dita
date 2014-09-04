@@ -231,7 +231,7 @@ conclusions.<br/> <ph outputclass="cmbx-12">M50</ph>   A homogeneous system of 8
 </p><p><ph outputclass="cmbx-12">M52</ph>   A homogeneous system of 8 equations in 7 variables.  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>    <xref href="#solution.HSE.M52">Solution</xref> [<xref href="#x21-52000doc">216</xref>]
 </p><p><ph outputclass="cmbx-12">T10</ph>   Prove or disprove: A system of linear equations is homogeneous if and only
 if the system has the zero vector as a solution.  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/JacksonMartin">Martin Jackson</xref>    <xref href="#solution.HSE.T10">Solution</xref> [<xref href="#x21-52000doc">216</xref>]
-</p><p><ph outputclass="cmbx-12">T12</ph>   Give an alternate proof of <xref keyref="#theorem.HSC">Theorem HSC</xref> that uses <xref keyref="fcla-xml-2.30li19/theorem.RCLS">Theorem RCLS</xref>.
+</p><p><ph outputclass="cmbx-12">T12</ph>   Give an alternate proof of <xref keyref="theorem.HSC">Theorem HSC</xref> that uses <xref keyref="fcla-xml-2.30li19/theorem.RCLS">Theorem RCLS</xref>.
  <br/> Contributed by <xref keyref="fcla-xml-2.30li6/KesslerIvan">Ivan Kessler</xref>
 </p><p><ph outputclass="cmbx-12">T20</ph>   Consider the homogeneous system of linear equations
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi mathvariant="bold-script">ℒ</m:mi><m:mi mathvariant="bold-script">S</m:mi><m:mspace width="0.3em" class="thinspace"/><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>A</m:mi><m:mo class="MathClass-punc">,</m:mo><m:mspace width="0.3em" class="thinspace"/><m:mn>0</m:mn></m:mrow></m:mfenced></m:math></d4p_MathML></d4p_eqn_inline>, and suppose

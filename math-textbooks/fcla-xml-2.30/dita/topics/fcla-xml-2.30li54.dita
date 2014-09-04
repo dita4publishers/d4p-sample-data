@@ -283,7 +283,7 @@ was arbitrary we have function equality,
 </p><p>   When a linear transformation is both injective and surjective, the pre-image of
 any element of the codomain is a set of size one (a “singleton”). This fact allowed
 us to <ph outputclass="cmti-12">construct </ph>the inverse linear transformation in one half of the proof
-of <xref keyref="#theorem.ILTIS">Theorem ILTIS</xref> (see <xref keyref="fcla-xml-2.30li71/technique.C">Technique C</xref>). We can follow this approach to
+of <xref keyref="theorem.ILTIS">Theorem ILTIS</xref> (see <xref keyref="fcla-xml-2.30li71/technique.C">Technique C</xref>). We can follow this approach to
 construct the inverse of a specific linear transformation, as the next example
 shows.
 </p><p><ph outputclass="cmbx-12">Example</ph><ph outputclass="cmbx-12"> CIVLT</ph><br/><ph outputclass="cmbx-12">Computing the Inverse of a Linear Transformations</ph><br/> Consider the linear transformation <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>T</m:mi><m:mo class="MathClass-punc">:</m:mo><m:msub><m:mrow><m:mi>S</m:mi></m:mrow><m:mrow><m:mn>2</m:mn><m:mn>2</m:mn></m:mrow></m:msub><m:mo class="MathClass-rel">→</m:mo><m:msub><m:mrow><m:mi>P</m:mi></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_inline>
@@ -500,10 +500,10 @@ and <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/Mat
 are isomorphic, there is an invertible linear transformation
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>T</m:mi><m:mo class="MathClass-punc">:</m:mo><m:mi>U</m:mi><m:mo class="MathClass-rel">→</m:mo><m:mi>V</m:mi></m:math></d4p_MathML></d4p_eqn_inline> (<xref href="#definition.IVS">Definition IVS</xref>).
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>T</m:mi></m:math></d4p_MathML></d4p_eqn_inline>
-is injective by <xref keyref="#theorem.ILTIS">Theorem ILTIS</xref> and so by <xref keyref="fcla-xml-2.30li52/theorem.ILTD">Theorem ILTD</xref>,
+is injective by <xref keyref="theorem.ILTIS">Theorem ILTIS</xref> and so by <xref keyref="fcla-xml-2.30li52/theorem.ILTD">Theorem ILTD</xref>,
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="qopname"> dim</m:mo><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>U</m:mi></m:mrow></m:mfenced><m:mo class="MathClass-rel">≤</m:mo><m:mo class="qopname"> dim</m:mo><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>V</m:mi></m:mrow></m:mfenced></m:math></d4p_MathML></d4p_eqn_inline>. Similarly,
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>T</m:mi></m:math></d4p_MathML></d4p_eqn_inline>
-is surjective by <xref keyref="#theorem.ILTIS">Theorem ILTIS</xref> and so by <xref keyref="fcla-xml-2.30li53/theorem.SLTD">Theorem SLTD</xref>,
+is surjective by <xref keyref="theorem.ILTIS">Theorem ILTIS</xref> and so by <xref keyref="fcla-xml-2.30li53/theorem.SLTD">Theorem SLTD</xref>,
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="qopname"> dim</m:mo><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>U</m:mi></m:mrow></m:mfenced><m:mo class="MathClass-rel">≥</m:mo><m:mo class="qopname"> dim</m:mo><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>V</m:mi></m:mrow></m:mfenced></m:math></d4p_MathML></d4p_eqn_inline>. The net effect of these
 two inequalities is that <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="qopname"> dim</m:mo><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>U</m:mi></m:mrow></m:mfenced><m:mo class="MathClass-rel">=</m:mo><m:mo class="qopname"> dim</m:mo><m:mfenced separators="" open="(" close=")"><m:mrow><m:mi>V</m:mi></m:mrow></m:mfenced></m:math></d4p_MathML></d4p_eqn_inline>.
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="MathClass-ord">■</m:mo></m:math></d4p_MathML></d4p_eqn_inline>
@@ -1170,7 +1170,7 @@ four sections in this chapter.
                                                                           
 
                                                                           
-</p><p><xref keyref="#theorem.RPNDD">Theorem RPNDD</xref><br/>This is the promised generalization of <xref keyref="fcla-xml-2.30li41/theorem.RPNC">Theorem RPNC</xref> about matrices. So the
+</p><p><xref keyref="theorem.RPNDD">Theorem RPNDD</xref><br/>This is the promised generalization of <xref keyref="fcla-xml-2.30li41/theorem.RPNC">Theorem RPNC</xref> about matrices. So the
 number of columns of a matrix is the analogue of the dimension of the domain.
 This will become even more precise in <xref keyref="fcla-xml-2.30li55/chapter.R">Chapter R</xref>. For now, this can be a powerful
 result for determining dimensions of kernels and ranges, and consequently, the

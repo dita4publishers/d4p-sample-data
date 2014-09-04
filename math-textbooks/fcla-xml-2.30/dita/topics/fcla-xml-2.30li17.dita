@@ -147,7 +147,7 @@ solutions, but this does not contradict the forthcoming theorem. The
 
                                                                           
 equations in <xref href="#example.STNE">Example STNE</xref> are not linear because they do not match the
-form of <xref keyref="#definition.SLE">Definition SLE</xref>, and so we cannot apply <xref keyref="fcla-xml-2.30li19/theorem.PSSLS">Theorem PSSLS</xref> in this
+form of <xref keyref="definition.SLE">Definition SLE</xref>, and so we cannot apply <xref keyref="fcla-xml-2.30li19/theorem.PSSLS">Theorem PSSLS</xref> in this
 case.
 </p></body></topic><topic id="d1e2206"><title>Subsection ESEO: Equivalent Systems and Equation Operations</title><body><p>    With all this talk about finding solution sets for systems of linear
 equations, you might be ready to begin learning how to find these solution sets

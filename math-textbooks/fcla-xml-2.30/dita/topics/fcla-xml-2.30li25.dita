@@ -337,7 +337,7 @@ vectors <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math
 in the linear combination are exactly the vectors
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>z</m:mi></m:mrow><m:mrow><m:mi>j</m:mi></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_inline>,
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mn>1</m:mn><m:mo class="MathClass-rel">≤</m:mo><m:mi>j</m:mi><m:mo class="MathClass-rel">≤</m:mo><m:mi>n</m:mi><m:mo class="MathClass-bin">−</m:mo><m:mi>r</m:mi></m:math></d4p_MathML></d4p_eqn_inline>
-described in <xref keyref="#theorem.SSNS">Theorem SSNS</xref>. So we can mimic <xref keyref="fcla-xml-2.30li24/example.VFSAL">Example VFSAL</xref> to arrive at these
+described in <xref keyref="theorem.SSNS">Theorem SSNS</xref>. So we can mimic <xref keyref="fcla-xml-2.30li24/example.VFSAL">Example VFSAL</xref> to arrive at these
 vectors (rather than being a slave to the formulas in the statement of the
 theorem).
 </p><p>   Begin by row-reducing <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>A</m:mi></m:math></d4p_MathML></d4p_eqn_inline>.
@@ -419,7 +419,7 @@ Check that the vector </p><table><tgroup cols="1"><tbody><row><entry>
 vector <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>z</m:mi></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_inline>
 provided by the description of the null space of the coefficient matrix
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>D</m:mi></m:math></d4p_MathML></d4p_eqn_inline> from
-<xref keyref="#theorem.SSNS">Theorem SSNS</xref>). Applying <xref keyref="fcla-xml-2.30li24/theorem.SLSLC">Theorem SLSLC</xref>, we can write the linear
+<xref keyref="theorem.SSNS">Theorem SSNS</xref>). Applying <xref keyref="fcla-xml-2.30li24/theorem.SLSLC">Theorem SLSLC</xref>, we can write the linear
 combination, </p><table><tgroup cols="1"><tbody><row><entry>
 <d4p_eqn_block><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" class="equation" overflow="scroll"><m:mn>2</m:mn><m:msub><m:mrow><m:mi>w</m:mi></m:mrow><m:mrow><m:mn>1</m:mn></m:mrow></m:msub><m:mo class="MathClass-bin">+</m:mo><m:mn>3</m:mn><m:msub><m:mrow><m:mi>w</m:mi></m:mrow><m:mrow><m:mn>2</m:mn></m:mrow></m:msub><m:mo class="MathClass-bin">+</m:mo><m:mn>0</m:mn><m:msub><m:mrow><m:mi>w</m:mi></m:mrow><m:mrow><m:mn>3</m:mn></m:mrow></m:msub><m:mo class="MathClass-bin">+</m:mo><m:mn>1</m:mn><m:msub><m:mrow><m:mi>w</m:mi></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:msub><m:mo class="MathClass-rel">=</m:mo><m:mn>0</m:mn></m:math></d4p_MathML></d4p_eqn_block></entry></row></tbody></tgroup></table><p>   which we can solve for <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>w</m:mi></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_inline>,
 </p><table><tgroup cols="1"><tbody><row><entry>
@@ -458,7 +458,7 @@ reduction.
 vector <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msub><m:mrow><m:mi>z</m:mi></m:mrow><m:mrow><m:mn>1</m:mn></m:mrow></m:msub></m:math></d4p_MathML></d4p_eqn_inline>
 provided by the description of the null space of the coefficient matrix
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>D</m:mi></m:math></d4p_MathML></d4p_eqn_inline> from
-<xref keyref="#theorem.SSNS">Theorem SSNS</xref>). Applying <xref keyref="fcla-xml-2.30li24/theorem.SLSLC">Theorem SLSLC</xref>, we can write the linear
+<xref keyref="theorem.SSNS">Theorem SSNS</xref>). Applying <xref keyref="fcla-xml-2.30li24/theorem.SLSLC">Theorem SLSLC</xref>, we can write the linear
 combination, </p><table><tgroup cols="1"><tbody><row><entry>
                                                                           
 
@@ -501,7 +501,7 @@ vector form of the solution set to a linear system of equations.  See:
 corresponding homogeneous system of equations. Write elements of the
 solution set to these homogeneous systems in vector form, as guaranteed by
 <xref keyref="fcla-xml-2.30li24/theorem.VFSLS">Theorem VFSLS</xref>. Then write the null space of the coefficient matrix of each
-system as the span of a set of vectors, as described in <xref keyref="#theorem.SSNS">Theorem SSNS</xref>.<br/><xref keyref="fcla-xml-2.30li73/archetype.A">Archetype A</xref><br/><xref keyref="fcla-xml-2.30li74/archetype.B">Archetype B</xref><br/><xref keyref="fcla-xml-2.30li75/archetype.C">Archetype C</xref><br/><xref keyref="fcla-xml-2.30li76/archetype.D">Archetype D</xref>/ <xref keyref="fcla-xml-2.30li77/archetype.E">Archetype E</xref><br/><xref keyref="fcla-xml-2.30li78/archetype.F">Archetype F</xref><br/><xref keyref="fcla-xml-2.30li79/archetype.G">Archetype G</xref>/ <xref keyref="fcla-xml-2.30li80/archetype.H">Archetype H</xref><br/><xref keyref="fcla-xml-2.30li81/archetype.I">Archetype I</xref><br/><xref keyref="fcla-xml-2.30li82/archetype.J">Archetype J</xref>
+system as the span of a set of vectors, as described in <xref keyref="theorem.SSNS">Theorem SSNS</xref>.<br/><xref keyref="fcla-xml-2.30li73/archetype.A">Archetype A</xref><br/><xref keyref="fcla-xml-2.30li74/archetype.B">Archetype B</xref><br/><xref keyref="fcla-xml-2.30li75/archetype.C">Archetype C</xref><br/><xref keyref="fcla-xml-2.30li76/archetype.D">Archetype D</xref>/ <xref keyref="fcla-xml-2.30li77/archetype.E">Archetype E</xref><br/><xref keyref="fcla-xml-2.30li78/archetype.F">Archetype F</xref><br/><xref keyref="fcla-xml-2.30li79/archetype.G">Archetype G</xref>/ <xref keyref="fcla-xml-2.30li80/archetype.H">Archetype H</xref><br/><xref keyref="fcla-xml-2.30li81/archetype.I">Archetype I</xref><br/><xref keyref="fcla-xml-2.30li82/archetype.J">Archetype J</xref>
 </p><p>    <br/> Contributed by <xref keyref="fcla-xml-2.30li6/BeezerRobert">Robert Beezer</xref>    <xref href="#solution.SS.C22">Solution</xref> [<xref href="#x26-79000doc">381</xref>]
 </p><p><ph outputclass="cmbx-12">C23</ph>   <xref keyref="fcla-xml-2.30li83/archetype.K">Archetype K</xref> and <xref keyref="fcla-xml-2.30li84/archetype.L">Archetype L</xref> are defined as matrices. Use <xref href="#theorem.SSNS">Theorem SSNS</xref> directly
 to find a set <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>S</m:mi></m:math></d4p_MathML></d4p_eqn_inline>

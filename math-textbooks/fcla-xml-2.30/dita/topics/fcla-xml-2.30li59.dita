@@ -611,7 +611,7 @@ An argument exactly like the second half of the proof of
 
                                                                           
 <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mo class="MathClass-ord">■</m:mo></m:math></d4p_MathML></d4p_eqn_inline>
-</p><p>   In a vague way <xref keyref="#theorem.OBNM">Theorem OBNM</xref> is an improvement on <xref keyref="fcla-xml-2.30li48/theorem.HMOE">Theorem HMOE</xref>
+</p><p>   In a vague way <xref keyref="theorem.OBNM">Theorem OBNM</xref> is an improvement on <xref keyref="fcla-xml-2.30li48/theorem.HMOE">Theorem HMOE</xref>
 which said that eigenvectors of a Hermitian matrix for different eigenvalues are
 always orthogonal. Hermitian matrices are normal and we see that we can find at
 least one basis where <ph outputclass="cmti-12">every </ph>pair of eigenvectors is orthogonal. Notice that this is
