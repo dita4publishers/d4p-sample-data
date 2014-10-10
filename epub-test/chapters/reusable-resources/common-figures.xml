@@ -9,12 +9,18 @@
     <fig
       id="fig-0001">
       <title>Some Skis</title>
+      <p>FIXME: This image reference causes graphic map to fail: relative path is being 
+                  generated incorrectly.</p>
+      <!-- FIXME: This image reference causes graphic map to fail: relative path is being 
+                  generated incorrectly.
+              
       <image
         href="../images/IMG_0774.jpeg"
         id="image_kgj_bwf_53">
         <alt>Shows a pair of rental skis with the number "110-20" written on
           them.</alt>
       </image>
+      -->
     </fig>
   </body>
 </subsection>
