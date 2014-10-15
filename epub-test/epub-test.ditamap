@@ -3,8 +3,7 @@
 <pubmap
   xml:lang="en-US">
   <pubtitle>
-    <mainpubtitle>Before keyword-with-keyref, <keyword
-      keyref="d4p-full-name"/>, EPUB Test Document</mainpubtitle>
+    <mainpubtitle>EPUB Test Document</mainpubtitle>
   </pubtitle>
   <pubmeta>
     <author
@@ -279,7 +278,9 @@
           keys="apple_fruit_gloss"/>
         <topicref
           href="glossary/apple_fruit.xml"
-          keys="apple_fruit_gloss-2nd-use">
+          keys="apple_fruit_gloss-2nd-use fruit_apple"
+          locktitle="yes"
+          >
           <topicmeta>
             <navtitle>Second use of apple_fruit glossary entry</navtitle>
           </topicmeta>

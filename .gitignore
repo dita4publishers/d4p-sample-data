@@ -1,6 +1,8 @@
 epub/
 temp/
 out/
+epub-test/html/
+output/
 html_temp/
 kindle/
 *.zip
