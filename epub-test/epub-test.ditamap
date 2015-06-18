@@ -100,13 +100,13 @@
     </covers>
     <frontmatter>
       <page
-        href="frontmatter/about-project-gutenberg.xml"/>
+        href="frontmatter/about-project-gutenberg.dita"/>
       <topicref
-        href="frontmatter/introduction.xml"/>
+        href="frontmatter/introduction.dita"/>
       <forward
         href="../common/topics/common-topic-01.xml"/>
       <chapter
-        href="frontmatter/frontmatter-topic.xml"/>
+        href="frontmatter/frontmatter-topic.dita"/>
       <toc/>
       <figurelist/>
       <tablelist/>
@@ -267,7 +267,10 @@
       <chapter
         href="chapters/chapter_4.xml"/>
     </pubbody>
-    <appendixes/>
+    <appendixes>
+      <appendix toc="no" href="topics/appendix-no-toc.dita"/>
+      <appendix href="topics/appendix-yes-toc.dita"/>
+    </appendixes>
     <backmatter>
       <glossary>
         <topicmeta>

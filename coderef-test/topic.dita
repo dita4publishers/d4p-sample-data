@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_iky_4yf_fq">
+  <title>Coderef Test 01</title>
+  <body>
+    <p>The following contains a coderef to code stored in a separate file:</p>
+    <fig
+      id="fig_wj2_tyf_fq">
+      <title>Direct Coderef</title>
+      <codeblock>Before coderef
+<coderef href="code/code-file-01.java"/>
+After coderef</codeblock>
+    </fig>
+  </body>
+</topic>

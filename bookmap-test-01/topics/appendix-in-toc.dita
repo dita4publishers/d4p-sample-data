@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_vnm_pfp_ds">
+  <title>Normal Appendix Topic</title>
+  <body>
+    <p>This topic is referenced by a topicref that does not set @toc so it should be in the ToC.</p>
+  </body>
+</topic>

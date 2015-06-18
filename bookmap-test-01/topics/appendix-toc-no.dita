@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_gwf_jfp_ds">
+  <title>Appendix With @toc="no" in map</title>
+  <body>
+    <p>This topic is referenced by a topicref with @toc="no". It should not appear in any table of contents.</p>
+  </body>
+</topic>

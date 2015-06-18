@@ -1,8 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic-1">
-  <title>A Chapter</title>
+  <title>Another  Chapter</title>
   <body>
     <p>Topic paragraph</p>
+    <table
+      frame="all"
+      rowsep="1"
+      colsep="1"
+      id="table_xsg_sys_vr">
+      <title>A Table</title>
+      <tgroup
+        cols="2">
+        <colspec
+          colname="c1"
+          colnum="1"
+          colwidth="1.0*"/>
+        <colspec
+          colname="c2"
+          colnum="2"
+          colwidth="1.0*"/>
+        <thead>
+          <row>
+            <entry>x</entry>
+            <entry>x</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>x</entry>
+            <entry>x</entry>
+          </row>
+          <row>
+            <entry>x</entry>
+            <entry>x</entry>
+          </row>
+          <row>
+            <entry>x</entry>
+            <entry>x</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
   </body>
 </topic>
