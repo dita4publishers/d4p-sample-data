@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e8593">
+<chapter id="d2e8593">
    <title>
       <d4pSimpleEnumerator><!--2.4-->Chapter 4. </d4pSimpleEnumerator>
       <ph>The Red Sea</ph>
@@ -457,4 +457,4 @@ searched for it with my <i>Nautilus</i>, I discovered it, I
 ventured into it; and soon, professor, you also will have cleared
 my Arabic tunnel!"</p>
    </body>
-</topic>
+</chapter>

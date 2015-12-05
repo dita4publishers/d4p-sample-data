@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e2316">
+<chapter id="d2e2316">
    <title>
       <d4pSimpleEnumerator><!--1.8-->Chapter 8. </d4pSimpleEnumerator>
       <ph>"Mobilis in Mobili"</ph>
@@ -304,4 +304,4 @@ seemed to be a blood relation of theirs: living, breathing, just as
 fearsome . . . ! Then my mind grew calmer, my imagination melted
 into hazy drowsiness, and I soon fell into an uneasy slumber.</p>
    </body>
-</topic>
+</chapter>

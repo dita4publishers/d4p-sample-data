@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e15073">
+<chapter id="d2e15073">
    <title>
       <d4pSimpleEnumerator><!--2.21-->Chapter 21. </d4pSimpleEnumerator>
       <ph>A Mass Execution</ph>
@@ -333,4 +333,4 @@ the portrait of a still–youthful woman with two little
 children. Captain Nemo stared at them for a few moments, stretched
 out his arms to them, sank to his knees, and melted into sobs.</p>
    </body>
-</topic>
+</chapter>

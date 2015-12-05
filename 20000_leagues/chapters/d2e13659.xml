@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e13659">
+<chapter id="d2e13659">
    <title>
       <d4pSimpleEnumerator><!--2.17-->Chapter 17. </d4pSimpleEnumerator>
       <ph>From Cape Horn to the Amazon</ph>
@@ -366,4 +366,4 @@ comparable to the green turtle.</p>
 that evening the <i>Nautilus</i> took to the high seas once
 more.</p>
    </body>
-</topic>
+</chapter>

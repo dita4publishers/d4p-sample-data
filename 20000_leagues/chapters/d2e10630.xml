@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e10630">
+<chapter id="d2e10630">
    <title>
       <d4pSimpleEnumerator><!--2.9-->Chapter 9. </d4pSimpleEnumerator>
       <ph>A Lost Continent</ph>
@@ -369,4 +369,4 @@ star. The captain walked straight toward it, and we were back on
 board just as the first glimmers of dawn were whitening the surface
 of the ocean.</p>
    </body>
-</topic>
+</chapter>

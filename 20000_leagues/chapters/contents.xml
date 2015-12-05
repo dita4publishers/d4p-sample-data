@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE topic PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="contents">
+<!DOCTYPE chapter PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
+<chapter id="contents">
   <title>Contents</title>
   <body>
       <p outputclass="2"><xref href="introduction.xml">Introduction</xref></p>
@@ -62,4 +62,4 @@
         <li><xref href="d2e15768.xml">Conclusion</xref></li>
       </ol>
   </body>
-</topic>
+</chapter>

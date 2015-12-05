@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e9034">
+<chapter id="d2e9034">
    <title>
       <d4pSimpleEnumerator><!--2.5-->Chapter 5. </d4pSimpleEnumerator>
       <ph>Arabian Tunnel</ph>
@@ -323,4 +323,4 @@ me:</p>
       <p>In less than twenty minutes, swept along by the torrent, the
 <i>Nautilus</i> had just cleared the Isthmus of Suez.</p>
    </body>
-</topic>
+</chapter>

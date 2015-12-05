@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e4859">
+<chapter id="d2e4859">
    <title>
       <d4pSimpleEnumerator><!--1.17-->Chapter 17. </d4pSimpleEnumerator>
       <ph>An Underwater Forest</ph>
@@ -250,4 +250,4 @@ utterly exhausted, faint from lack of food and rest, I repaired to
 my stateroom, full of wonder at this startling excursion on the
 bottom of the sea.</p>
    </body>
-</topic>
+</chapter>

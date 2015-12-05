@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e485">
+<chapter id="d2e485">
    <title>
       <d4pSimpleEnumerator><!--1.1-->Chapter 1. </d4pSimpleEnumerator>
       <ph>A Runaway Reef</ph>
@@ -252,4 +252,4 @@ between the various continents had become more and more dangerous,
 the public spoke up and demanded straight out that, at all cost,
 the seas be purged of this fearsome <i>cetacean</i>.</p>
    </body>
-</topic>
+</chapter>

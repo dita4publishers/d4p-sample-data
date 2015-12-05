@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e5009">
+<chapter id="d2e5009">
    <title>
       <d4pSimpleEnumerator><!--1.18-->Chapter 18. </d4pSimpleEnumerator>
       <ph>Four Thousand Leagues Under the Pacific</ph>
@@ -300,4 +300,4 @@ stern:</p>
 Sunderland, England</p>
       </lq>
    </body>
-</topic>
+</chapter>

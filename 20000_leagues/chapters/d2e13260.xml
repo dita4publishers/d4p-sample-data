@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e13260">
+<chapter id="d2e13260">
    <title>
       <d4pSimpleEnumerator><!--2.16-->Chapter 16. </d4pSimpleEnumerator>
       <ph>Shortage of Air</ph>
@@ -374,4 +374,4 @@ weight.</p>
 prefer—and waves of clean air were admitted into every part
 of the <i>Nautilus</i>.</p>
    </body>
-</topic>
+</chapter>

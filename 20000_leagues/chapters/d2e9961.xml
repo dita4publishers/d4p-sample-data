@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e9961">
+<chapter id="d2e9961">
    <title>
       <d4pSimpleEnumerator><!--2.7-->Chapter 7. </d4pSimpleEnumerator>
       <ph>The Mediterranean in Forty–Eight Hours</ph>
@@ -369,4 +369,4 @@ the Temple of Hercules, buried undersea, as Pliny and Avianus have
 mentioned, together with the flat island they stand on; and a few
 minutes later, we were floating on the waves of the Atlantic.</p>
    </body>
-</topic>
+</chapter>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e12881">
+<chapter id="d2e12881">
    <title>
       <d4pSimpleEnumerator><!--2.15-->Chapter 15. </d4pSimpleEnumerator>
       <ph>Accident or Incident?</ph>
@@ -285,4 +285,4 @@ exit."</p>
       <p>"We're boxed in?"</p>
       <p>"Yes."</p>
    </body>
-</topic>
+</chapter>

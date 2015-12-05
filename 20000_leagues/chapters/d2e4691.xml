@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e4691">
+<chapter id="d2e4691">
    <title>
       <d4pSimpleEnumerator><!--1.16-->Chapter 16. </d4pSimpleEnumerator>
       <ph>Strolling the Plains</ph>
@@ -232,4 +232,4 @@ shadows a short distance away.</p>
       <p>"It's the forest of Crespo Island," I thought; and I was not
 mistaken.</p>
    </body>
-</topic>
+</chapter>

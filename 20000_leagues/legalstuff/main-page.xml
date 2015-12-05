@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE topic PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="license">
+<!DOCTYPE chapter PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
+<chapter id="license">
   <title>Project Gutenberg License</title>
   <body>
     <pre>
@@ -50,4 +50,4 @@
       
     </pre>
   </body>
-</topic>
+</chapter>

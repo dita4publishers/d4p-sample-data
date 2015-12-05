@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e2803">
+<chapter id="d2e2803">
    <title>
       <d4pSimpleEnumerator><!--1.10-->Chapter 10. </d4pSimpleEnumerator>
       <ph>The Man of the Waters</ph>
@@ -339,4 +339,4 @@ and turning to me:</p>
       <p>"Now, professor," he said, "if you'd like to inspect the
 <i>Nautilus</i>, I'm yours to command."</p>
    </body>
-</topic>
+</chapter>

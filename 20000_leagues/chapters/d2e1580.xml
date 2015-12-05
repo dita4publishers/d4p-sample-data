@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e1580">
+<chapter id="d2e1580">
    <title>
       <d4pSimpleEnumerator><!--1.6-->Chapter 6. </d4pSimpleEnumerator>
       <ph>At Full Steam</ph>
@@ -318,4 +318,4 @@ and yardarms from their lashings.</p>
       <p>A hideous collision occurred, and thrown over the rail with no
 time to catch hold of it, I was hurled into the sea.</p>
    </body>
-</topic>
+</chapter>
