@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e1150">
+<chapter id="d2e1150">
    <title>
       <d4pSimpleEnumerator><!--1.4-->Chapter 4. </d4pSimpleEnumerator>
       <ph>Ned Land</ph>
@@ -257,4 +257,4 @@ business; to harpoon it called for sighting it—which was the
 crew's business; and to sight it called for encountering
 it—which was a chancy business.</p>
    </body>
-</topic>
+</chapter>

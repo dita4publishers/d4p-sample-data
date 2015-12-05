@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e14446">
+<chapter id="d2e14446">
    <title>
       <d4pSimpleEnumerator><!--2.19-->Chapter 19. </d4pSimpleEnumerator>
       <ph>The Gulf Stream</ph>
@@ -395,4 +395,4 @@ for a resting place in the bowels of the sea.</p>
 peace all around us! Who would have known that a dreadful hurricane
 was then unleashed on the surface of this ocean?</p>
    </body>
-</topic>
+</chapter>

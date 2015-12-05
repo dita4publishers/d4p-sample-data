@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e3843">
+<chapter id="d2e3843">
    <title>
       <d4pSimpleEnumerator><!--1.14-->Chapter 14. </d4pSimpleEnumerator>
       <ph>The Black Current</ph>
@@ -420,4 +420,4 @@ drowsiness overtook me, I stretched out on my eelgrass mattress,
 and I fell into a deep slumber, while the <i>Nautilus</i> glided
 through the swiftly flowing Black Current.</p>
    </body>
-</topic>
+</chapter>

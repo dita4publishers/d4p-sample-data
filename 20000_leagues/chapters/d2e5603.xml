@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e5603">
+<chapter id="d2e5603">
    <title>
       <d4pSimpleEnumerator><!--1.20-->Chapter 20. </d4pSimpleEnumerator>
       <ph>The Torres Strait</ph>
@@ -306,4 +306,4 @@ my own special creations."</p>
 on a sandy strand, after successfully clearing the ring of coral
 that surrounds Gueboroa Island.</p>
    </body>
-</topic>
+</chapter>

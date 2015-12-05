@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e5927">
+<chapter id="d2e5927">
    <title>
       <d4pSimpleEnumerator><!--1.21-->Chapter 21. </d4pSimpleEnumerator>
       <ph>Some Days Ashore</ph>
@@ -417,4 +417,4 @@ Conseil said.</p>
       <p>Just then a stone whizzed toward us, landed at our feet, and cut
 short the harpooner's proposition.</p>
    </body>
-</topic>
+</chapter>

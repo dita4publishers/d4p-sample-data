@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e3305">
+<chapter id="d2e3305">
    <title>
       <d4pSimpleEnumerator><!--1.12-->Chapter 12. </d4pSimpleEnumerator>
       <ph>Everything through Electricity</ph>
@@ -254,4 +254,4 @@ hesitation, "since you'll never leave this underwater boat. Come
 into the lounge. It's actually our work room, and there you'll
 learn the full story about the <i>Nautilus</i>!"</p>
    </body>
-</topic>
+</chapter>

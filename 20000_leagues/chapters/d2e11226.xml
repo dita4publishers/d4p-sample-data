@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e11226">
+<chapter id="d2e11226">
    <title>
       <d4pSimpleEnumerator><!--2.11-->Chapter 11. </d4pSimpleEnumerator>
       <ph>The Sargasso Sea</ph>
@@ -334,4 +334,4 @@ leagues separating it from the surface of the ocean, and after
 emerging like a flying fish, it fell back into the sea, making the
 waves leap to prodigious heights.</p>
    </body>
-</topic>
+</chapter>

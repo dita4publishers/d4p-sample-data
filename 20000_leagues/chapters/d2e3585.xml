@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e3585">
+<chapter id="d2e3585">
    <title>
       <d4pSimpleEnumerator><!--1.13-->Chapter 13. </d4pSimpleEnumerator>
       <ph>Some Figures</ph>
@@ -252,4 +252,4 @@ the ten–billion–franc French national debt!"</p>
       <p>I gaped at the bizarre individual who had just spoken these
 words. Was he playing on my credulity? Time would tell.</p>
    </body>
-</topic>
+</chapter>

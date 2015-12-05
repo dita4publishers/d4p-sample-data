@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e10884">
+<chapter id="d2e10884">
    <title>
       <d4pSimpleEnumerator><!--2.10-->Chapter 10. </d4pSimpleEnumerator>
       <ph>The Underwater Coalfields</ph>
@@ -386,4 +386,4 @@ exit through his underwater passageway in secrecy? Perhaps.</p>
 its home port and was navigating well out from any shore, a few
 meters beneath the waves of the Atlantic.</p>
    </body>
-</topic>
+</chapter>

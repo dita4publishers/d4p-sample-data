@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e15494">
+<chapter id="d2e15494">
    <title>
       <d4pSimpleEnumerator><!--2.22-->Chapter 22. </d4pSimpleEnumerator>
       <ph>The Last Words of Captain Nemo</ph>
@@ -260,4 +260,4 @@ like a stone from a sling into the midst of the vortex.</p>
       <p>My head struck against an iron timber, and with this violent
 shock I lost consciousness.</p>
    </body>
-</topic>
+</chapter>

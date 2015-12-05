@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e716">
+<chapter id="d2e716">
    <title>
       <d4pSimpleEnumerator><!--1.2-->Chapter 2. </d4pSimpleEnumerator>
       <ph>The Pros and Cons</ph>
@@ -227,4 +227,4 @@ Farragut has a cabin at your disposal.</p>
 Secretary of the Navy.</p>
       </lq>
    </body>
-</topic>
+</chapter>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e7545">
+<chapter id="d2e7545">
    <title>
       <d4pSimpleEnumerator><!--2.1-->Chapter 1. </d4pSimpleEnumerator>
       <ph>The Indian Ocean</ph>
@@ -371,4 +371,4 @@ us all the way to the horizon, the skies kept mirroring the
 whiteness of those waves and for a good while seemed imbued with
 the hazy glow of an aurora borealis.</p>
    </body>
-</topic>
+</chapter>

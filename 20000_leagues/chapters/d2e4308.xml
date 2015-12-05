@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e4308">
+<chapter id="d2e4308">
    <title>
       <d4pSimpleEnumerator><!--1.15-->Chapter 15. </d4pSimpleEnumerator>
       <ph>An Invitation in Writing</ph>
@@ -316,4 +316,4 @@ instantly followed us.</p>
 engine room; in this cell we were to get dressed for our
 stroll.</p>
    </body>
-</topic>
+</chapter>

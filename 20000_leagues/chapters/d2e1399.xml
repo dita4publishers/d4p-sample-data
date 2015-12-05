@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e1399">
+<chapter id="d2e1399">
    <title>
       <d4pSimpleEnumerator><!--1.5-->Chapter 5. </d4pSimpleEnumerator>
       <ph>At Random!</ph>
@@ -229,4 +229,4 @@ Land's voice, and it shouted:</p>
       <p>"Ahoy! There's the thing in question, abreast of us to
 leeward!"</p>
    </body>
-</topic>
+</chapter>

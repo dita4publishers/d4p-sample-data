@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE topic PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="topic-1">
+<!DOCTYPE chapter PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
+<chapter id="topic-1">
   <title>Introduction</title>
   <body>
     <p>"The deepest parts of the ocean are totally unknown to us,"
@@ -140,4 +140,4 @@
     <p>F. P. WALTER</p>
     <p>University of Houston</p>
   </body>
-</topic>
+</chapter>

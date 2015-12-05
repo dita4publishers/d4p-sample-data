@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e11496">
+<chapter id="d2e11496">
    <title>
       <d4pSimpleEnumerator><!--2.12-->Chapter 12. </d4pSimpleEnumerator>
       <ph>Sperm Whales and Baleen Whales</ph>
@@ -412,4 +412,4 @@ attitudes toward Captain Nemo grew worse and worse, and I decided
 to keep a close watch on the Canadian's movements and
 activities.</p>
    </body>
-</topic>
+</chapter>

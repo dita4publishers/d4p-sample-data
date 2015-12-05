@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e6378">
+<chapter id="d2e6378">
    <title>
       <d4pSimpleEnumerator><!--1.22-->Chapter 22. </d4pSimpleEnumerator>
       <ph>The Lightning Bolts of Captain Nemo</ph>
@@ -420,4 +420,4 @@ lazy majesty. Gathering speed little by little, the ship navigated
 on the surface of the ocean, and safe and sound, it left behind the
 dangerous narrows of the Torres Strait.</p>
    </body>
-</topic>
+</chapter>

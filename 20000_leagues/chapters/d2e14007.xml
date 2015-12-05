@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e14007">
+<chapter id="d2e14007">
    <title>
       <d4pSimpleEnumerator><!--2.18-->Chapter 18. </d4pSimpleEnumerator>
       <ph>The Devilfish</ph>
@@ -400,4 +400,4 @@ and disappeared beneath the waves.</p>
 the sea that had swallowed one of his companions, and large tears
 streamed from his eyes.</p>
    </body>
-</topic>
+</chapter>

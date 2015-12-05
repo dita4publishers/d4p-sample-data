@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e15768">
+<chapter id="d2e15768">
    <title>
       <d4pSimpleEnumerator><!--2.23-->Chapter 23. </d4pSimpleEnumerator>
       <ph>Conclusion</ph>
@@ -55,4 +55,4 @@ depths?"—two men out of all humanity have now earned the
 right to reply. Captain Nemo and I.</p>
       
    </body>
-</topic>
+</chapter>

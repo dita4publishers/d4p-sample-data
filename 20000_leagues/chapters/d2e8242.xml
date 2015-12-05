@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e8242">
+<chapter id="d2e8242">
    <title>
       <d4pSimpleEnumerator><!--2.3-->Chapter 3. </d4pSimpleEnumerator>
       <ph>A Pearl Worth Ten Million</ph>
@@ -423,4 +423,4 @@ tone touched with emotion:</p>
 I am to this day, and will be until my last breath, a native of
 that same land!"</p>
    </body>
-</topic>
+</chapter>

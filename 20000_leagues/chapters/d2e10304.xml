@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e10304">
+<chapter id="d2e10304">
    <title>
       <d4pSimpleEnumerator><!--2.8-->Chapter 8. </d4pSimpleEnumerator>
       <ph>The Bay of Vigo</ph>
@@ -379,4 +379,4 @@ to individuals!</p>
 when the <i>Nautilus</i> navigated the waters where Crete was in
 rebellion against the Ottoman Empire!</p>
    </body>
-</topic>
+</chapter>

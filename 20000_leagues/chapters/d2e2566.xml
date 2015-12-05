@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e2566">
+<chapter id="d2e2566">
    <title>
       <d4pSimpleEnumerator><!--1.9-->Chapter 9. </d4pSimpleEnumerator>
       <ph>The Tantrums of Ned Land</ph>
@@ -262,4 +262,4 @@ pronounced in French:</p>
       <p>"Calm down, Mr. Land! And you, professor, kindly listen to
 me!"</p>
    </body>
-</topic>
+</chapter>

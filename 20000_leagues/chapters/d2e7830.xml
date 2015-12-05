@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e7830">
+<chapter id="d2e7830">
    <title>
       <d4pSimpleEnumerator><!--2.2-->Chapter 2. </d4pSimpleEnumerator>
       <ph>A New Proposition from Captain Nemo</ph>
@@ -363,4 +363,4 @@ master."</p>
       <p>"If master faces these sharks," Conseil said, "I think his loyal
 manservant should face them with him!"</p>
    </body>
-</topic>
+</chapter>

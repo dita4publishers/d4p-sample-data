@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic
+<!DOCTYPE chapter
   PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
-<topic id="d2e14768">
+<chapter id="d2e14768">
    <title>
       <d4pSimpleEnumerator><!--2.20-->Chapter 20. </d4pSimpleEnumerator>
       <ph>In Latitude 47° 24' and Longitude 17° 28'</ph>
@@ -290,4 +290,4 @@ up on the afterdeck, it disappeared beneath the waves to shouts of
       <p>"Yes, sir! <i>The Avenger</i>! A splendid name!" Captain Nemo
 murmured, crossing his arms.</p>
    </body>
-</topic>
+</chapter>
