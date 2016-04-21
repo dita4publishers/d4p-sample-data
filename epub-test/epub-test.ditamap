@@ -326,7 +326,11 @@
         <topicref
           href="http://www.apple.com"
           format="html"
-          scope="external"/>
+          scope="external">
+          <topicmeta>
+            <navtitle>apple.com</navtitle>
+          </topicmeta>
+        </topicref>
       </relcell>
     </relrow>
   </reltable>
