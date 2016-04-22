@@ -99,6 +99,7 @@
         href="covers/epub-test-front-cover.xml"/>
     </covers>
     <frontmatter>
+      <topicref href="about_this_test_epub.dita"/>
       <page
         href="frontmatter/about-project-gutenberg.xml"/>
       <topicref
@@ -164,9 +165,7 @@
       </chapter>
       <chapter
         href="chapters/d4p-vocabulary.xml"/>
-      <chapter-mapref
-        href="chapters/variable-domain-test-chapter.ditamap"
-        format="ditamap"/>
+      <chapter-mapref href="chapters/variable-domain-test-chapter.ditamap" format="ditamap"/>
       <chapter
         href="chapters/title-only-topic-01.xml">
         <topicref

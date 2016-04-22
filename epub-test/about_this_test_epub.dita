@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="about_this_test_epub">
+  <title>About This Test EPUB</title>
+  <body>
+    <p>This is an EPUB test document. It includes many things designed to exercise various features
+      of the DITA for Publishers EPUB transformation type.</p>
+    <section id="section_il5_zdt_sv">
+      <title>Font Embedding</title>
+      <p>To test font embedding, specify the following runtime options:<parml>
+          <plentry>
+            <pt><parmname>epub.font.manifest</parmname></pt>
+            <pd>Point it to to the <filepath>fonts/font-manifest.xml</filepath> file under the root
+                <filepath>epub-test</filepath> directory. For OxygenXML you can do this as
+                <codeph>${cfd}/fonts/font-manifest.xml</codeph>. This manifest points to the
+                <filepath>AlexBrush-Regular.ttf</filepath> font in the <filepath>fonts</filepath>
+              directory and indicates that it should be obfuscated.</pd>
+          </plentry>
+          <plentry>
+            <pt><parmname>epub.obfuscate.fonts</parmname></pt>
+            <pd>Set to "true" to turn font obfuscation. Fonts will not be obfuscated unless this
+              property is set to true. (This lets you generate EPUBs without obfuscated fonts even
+              when the font manifest specifies obfuscated fonts.</pd>
+          </plentry>
+          <plentry>
+            <pt><parmname>args.css</parmname></pt>
+            <pd>Set to the <filepath>css/epub-test.css</filepath> under the root
+                <filepath>epub-test</filepath> directory. For OxygenXML you can do
+                <codeph>${cfd}/css/epub-test.css</codeph>. The CSS defines the AlexBrush-Regular.ttf
+              font and uses it for h1, h2, and h3 elements. It also sets the color for those
+              elements to teal so you can easily tell if the CSS is being applied.</pd>
+          </plentry>
+        </parml></p>
+    </section>
+  </body>
+</topic>

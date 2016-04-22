@@ -1,5 +1,18 @@
 /* Sample custom CSS for testing EPUB generation*/
 
+@font-face {
+  font-family : AlexBrush;
+  font-weight : normal;
+  font-style: normal;
+  src : url(fonts/AlexBrush-Regular.ttf);
+}
+
 body {
   font-family: Verdana, sans-serif;  
+}
+
+/* Test embedded font. AlexBrush looks like fancy caligraphy. */
+h1, h2, h3 {
+  font-family: "AlexBrush", serif;
+  color: teal;
 }
