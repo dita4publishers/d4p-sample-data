@@ -6,6 +6,6 @@
     <font-set>
       <title>Base font set</title>
       <desc>This is the description.</desc>
-      <font uri="AlexBrush-Regular.ttf" obfuscate="obfuscate"/>
+      <font uri="AlexBrush-Regular.ttf" obfuscate="obfuscate" css-font-family-name="AlexBrush"/>
     </font-set>
 </font-manifest>

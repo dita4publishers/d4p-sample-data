@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<chapter xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="chapterid" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)       (topic indexing-d)      (topic d4p_formatting-d)      (topic d4p_ruby-d)      a(props d4p_renditionTarget)      (topic d4p_classification-d)      (topic d4p_math-d)      (topic d4p_simplebib-d)      (topic d4p_variables-d)      (topic d4p_verse-d)      (topic xml-d)      (topic abbrev-d)     " class="- topic/topic chapter/chapter ">
+<!DOCTYPE chapter PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:chapter" "chapter.dtd">
+<chapter xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" 
+  id="chapterid" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)       (topic indexing-d)      (topic d4p_formatting-d)      (topic d4p_ruby-d)      a(props d4p_renditionTarget)      (topic d4p_classification-d)      (topic d4p_math-d)      (topic d4p_simplebib-d)      (topic d4p_variables-d)      (topic d4p_verse-d)      (topic xml-d)      (topic abbrev-d)     " class="- topic/topic chapter/chapter ">
     <title class="- topic/title ">The Cyclone</title>
     <body class="- topic/body ">
         <p class="- topic/p " outputclass="para-first">Dorothy lived in the midst of the great Kansas prairies, with

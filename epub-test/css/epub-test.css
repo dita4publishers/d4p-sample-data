@@ -1,11 +1,14 @@
 /* Sample custom CSS for testing EPUB generation*/
 
+@import "../fonts/fonts.css";
+/*
 @font-face {
   font-family : AlexBrush;
   font-weight : normal;
   font-style: normal;
   src : url(fonts/AlexBrush-Regular.ttf);
 }
+ */
 
 body {
   font-family: Verdana, sans-serif;  
