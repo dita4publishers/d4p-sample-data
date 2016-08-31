@@ -59,7 +59,7 @@
       <p>A complex table:</p>
       <table
         frame="all">
-        <title>This is a Sample Table</title>
+        <title>This is a <b>Sample</b> Table</title>
         <tgroup
           cols="6">
           <colspec

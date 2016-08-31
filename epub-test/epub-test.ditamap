@@ -151,6 +151,7 @@
           href="chapters/index-item-tests.xml"/>
         <subsection
           href="chapters/title-with-keyref.xml"/>
+        <subsection href="chapters/topic-with-table-with-title.xml"/>
       </chapter>
       <chapter
         href="chapters/graphic-tests.xml">

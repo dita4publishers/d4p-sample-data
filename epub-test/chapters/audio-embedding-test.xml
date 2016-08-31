@@ -8,7 +8,7 @@
       modeled as directly as possible on the HTML5 &lt;audio> element. It
       specializes from &lt;object>.</p>
     <fig>
-      <title>Sample of Embedded Audio: Lacrimae Rerum</title>
+      <title>Sample of <b>Embedded</b> Audio: Lacrimae Rerum</title>
       <d4p_audio>
         <d4p_media_source value="media/aeneid-1.461.m4a" type="audio/mp4"/>        
         <d4p_media_source value="media/aeneid-1.461.mp3" type="audio/mp3"/>        

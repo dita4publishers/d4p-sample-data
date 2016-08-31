@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "urn:pubid:dita4publishers.org:doctypes:dita:topic" "topic.dtd">
+<topic
+  id="topic-id">
+  <title>Topic with Table With Title</title>
+  <shortdesc>Tests generation of list of tables.</shortdesc>
+  <body>
+    <p>Here is a table:</p>
+    <table
+      colsep="1"
+      frame="all"
+      id="table_ztr_nv3_dx"
+      rowsep="1">
+      <title>Sample Table With <b>Subelements</b> in Title</title>
+      <tgroup
+        cols="3">
+        <colspec
+          colname="c1"
+          colnum="1"
+          colwidth="1.0*"/>
+        <colspec
+          colname="c2"
+          colnum="2"
+          colwidth="1.0*"/>
+        <colspec
+          colname="c3"
+          colnum="3"
+          colwidth="1.0*"/>
+        <thead>
+          <row>
+            <entry>Column 1</entry>
+            <entry>Column 2</entry>
+            <entry>Column 3</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>C1</entry>
+            <entry>C2</entry>
+            <entry>C3</entry>
+          </row>
+          <row>
+            <entry>C1</entry>
+            <entry>C2</entry>
+            <entry>C3</entry>
+          </row>
+          <row>
+            <entry>C1</entry>
+            <entry>C2</entry>
+            <entry>C3</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </body>
+</topic>
