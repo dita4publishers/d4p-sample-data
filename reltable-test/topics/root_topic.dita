@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_cx4_5zh_my">
+  <title>Root Topic</title>
+  <body>
+    <p>This is the root topic.</p>
+    <p>The relationship table creates links from this topic to other topics.</p>
+  </body>
+</topic>

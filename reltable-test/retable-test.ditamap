@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Test of Reltable Handling</title>
+  <topicref href="topics/root_topic.dita" keys="root-topic">
+    <topicref href="topics/topic_one.dita" keys="topic-01"/>
+    <topicref href="topics/topic_two.dita" keys="topic-02"/>
+  </topicref>
+  <reltable title="Test Relatable">
+    <relrow>
+      <relcell>
+        <topicref keyref="root-topic"/>
+      </relcell>
+      <relcell>
+        <topicref keyref="topic-01"/>
+      </relcell>
+    </relrow>
+    <relrow>
+      <relcell>
+        <topicref keyref="topic-01"/>
+      </relcell>
+      <relcell>
+        <topicref keyref="topic-02"/>
+      </relcell>
+    </relrow>
+  </reltable>
+</map>
