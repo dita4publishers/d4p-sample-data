@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Key Test</title>
+  <topicgroup>
+    <topicmeta>
+      <navtitle>Key Definitions</navtitle>
+    </topicmeta>
+    <keydef
+      href="chapters/images/1407-04.jpg"
+      format="jpg"
+      keys="graphic-1407-04"/>
+    <keydef
+      keys="keyed-topic-01"
+      href="chapters/keyed-topic-one.xml"/>
+    <keydef
+      keys="keyed-topic-01-key-02"
+      href="chapters/keyed-topic-one.xml"
+      processing-role="resource-only"/>
+    <keydef
+      keys="keyed-topic-02"
+      href="chapters/keyed-topic-two.xml"
+      processing-role="resource-only"/>
+    <keydef
+      keys="keyed-topic-03"
+      href="chapters/keyed-topic-three.xml"
+      processing-role="resource-only"/>
+  </topicgroup>
+  <topicref href="chapters/root-topic.dita">
+    <topicref href="chapters/keyref-tests.xml">
+      <topicref keyref="keyed-topic-01"/>
+      <topicref keyref="keyed-topic-01-key-02" copy-to="chapters/keyed-topic-01-key-02.dita"/>
+      <topicref keyref="keyed-topic-02"/>
+      <topicref keyref="keyed-topic-02" copy-to="chapters/keyed-topic-02-02.dita"/>
+      <topicref keyref="keyed-topic-03"/>
+      <!-- Single ref, no copy-to -->
+    </topicref>
+  </topicref>
+</map>

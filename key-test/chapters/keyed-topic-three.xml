@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="keyed-topic-three">
+    <title>Keyed Topic Three</title>
+    <body>
+        <p>Bound to key "keyed-topic-03" in the key-test map.</p>
+    </body>
+</topic>

@@ -6,3 +6,5 @@ output/
 html_temp/
 kindle/
 *.zip
+epub-test/html5
+key-test/html5
