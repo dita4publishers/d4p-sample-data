@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_wrd_y3p_ds">
+  <title>Appendix topic should be in ToC</title>
+  <body>
+    <p>This appendix is referenced by a topicref that does not set @toc. It should be in any ToC.</p>
+  </body>
+</topic>

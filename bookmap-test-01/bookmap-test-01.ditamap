@@ -7,6 +7,8 @@
   <frontmatter>
     <booklists>
       <toc/>
+      <figurelist/>
+      <tablelist/>
     </booklists>
   </frontmatter>
   <part
@@ -50,5 +52,10 @@
       <navtitle>The Third Part (&lt;navtitle&gt;)</navtitle>   
     </topicmeta>
   </part>
-  <part navtitle="The Fourth Part (@navtite)"/>
+  <part navtitle="The Fourth Part (@navtitle)"/>
+  <appendices>
+    <appendix toc="no" href="topics/appendix-toc-no.dita"/>
+    <appendix
+      href="topics/appendix-in-toc.dita"/>
+  </appendices>
 </bookmap>
