@@ -32,26 +32,24 @@
     <p>This variable is defined in the topicref that directly references this
       topic:
       "<i><d4p-variableref_keyword>varDefinedInDirectTopicref</d4p-variableref_keyword></i>"</p>
-    <p>The D4P variables domain provides a simple mechanism for defining
-      "variables" that can be referenced from any context that allows
-      <xmlelem>keyword</xmlelem> or <xmlelem>text</xmlelem>. Variables are
-      defined in maps, topicrefs, topic prologs, or topic bodies. Unlike key
-      definitions, variable definitions are scoped in a way that is analogous to
-      variables in programming languages, meaning that the closest definition is
-      the effective one, letting you have variables that are scoped by map
-      context and by topic context. The same topic used in two different
-      contexts can reflect different values for the same variable reference.</p>
+    <p>The D4P variables domain provides a simple mechanism for defining "variables" that can be
+      referenced from any context that allows <xmlelement>keyword</xmlelement> or
+        <xmlelement>text</xmlelement>. Variables are defined in maps, topicrefs, topic prologs, or
+      topic bodies. Unlike key definitions, variable definitions are scoped in a way that is
+      analogous to variables in programming languages, meaning that the closest definition is the
+      effective one, letting you have variables that are scoped by map context and by topic context.
+      The same topic used in two different contexts can reflect different values for the same
+      variable reference.</p>
     <p>In addition, topics can define fallback or default values for variables
       that will be used if there is no other (higher) definition for the
       variable.</p>
-    <p>Variable definitions are specializations of <xmlelem>data</xmlelem>. The
-      <xmlatt>name</xmlatt> attribute is the variable name, the value may be
-      specified in the <xmlatt>value</xmlatt> attribute or in the element
-      content. If both element content and <xmlatt>value</xmlatt> are specified,
-      the value of the <xmlatt>value</xmlatt> attribute is used. This lets you
-      use the content of the <xmlelem>d4p-variable-definition</xmlelem> element
-      as documentation of the variable if you want. The variable value allows
-      any markup allowed within <xmlelem>data</xmlelem>.</p>
+    <p>Variable definitions are specializations of <xmlelement>data</xmlelement>. The
+        <xmlatt>name</xmlatt> attribute is the variable name, the value may be specified in the
+        <xmlatt>value</xmlatt> attribute or in the element content. If both element content and
+        <xmlatt>value</xmlatt> are specified, the value of the <xmlatt>value</xmlatt> attribute is
+      used. This lets you use the content of the <xmlelement>d4p-variable-definition</xmlelement>
+      element as documentation of the variable if you want. The variable value allows any markup
+      allowed within <xmlelement>data</xmlelement>.</p>
   </body>
   <subsection
     id="subsection_n3l_sql_y3">
@@ -73,12 +71,11 @@
           name="varDefinedInTopicBody">variable "varDefinedInTopicBody" value as
           defined in the subtopic topic body</d4p-variable-definition>
       </d4p-variable-definitions>
-      <p>This section exercises the various ways that variables can be defined
-        and referenced. For these tests, each variable reference is within
-        <xmlelem>i</xmlelem> and within double quotes just for visual
-        distinction. The resolved value of the variable will always make it
-        clear that the value is coming from the variable definition (and is not
-        simply the contents of the variable reference).</p>
+      <p>This section exercises the various ways that variables can be defined and referenced. For
+        these tests, each variable reference is within <xmlelement>i</xmlelement> and within double
+        quotes just for visual distinction. The resolved value of the variable will always make it
+        clear that the value is coming from the variable definition (and is not simply the contents
+        of the variable reference).</p>
       <p>This variable is defined at the start of the topic body that
         contains the reference. It should take precedence over any higher
         definition or any fallback:

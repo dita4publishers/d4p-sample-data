@@ -23,7 +23,7 @@
     id="subsection_oyp_gtd_sn">
     <title>D4P XML Domain</title>
     <body>
-      <p>Element: <xmlelem>elementName</xmlelem></p>
+      <p>Element: <xmlelement>elementName</xmlelement></p>
     </body>
   </subsection>
 </chapter>
