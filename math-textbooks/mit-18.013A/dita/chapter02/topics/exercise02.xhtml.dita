@@ -4,7 +4,7 @@
 <topic id="d1e59"><title>Exercise 2.2</title><body><p>
 <b>Set up a spreadsheet to compute
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>exp</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>exp</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></mathml>
   </d4p_eqn_inline> up to say the 100 term 
   using your series.</b>
 </p><p>
@@ -12,31 +12,31 @@ Solution:
 </p><p>
 What I would do is to put the value of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  (which you can specify as you wish) in b1. (and the symbol 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  in a1)
 </p><p>
 Then I would put 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>j</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>j</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  in column A starting with 0 in a2. (Put =a2+1 in a3 and copy it down) ; put 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  in column B (set =b1+1 in b2 and copy it down); put 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mi>j</m:mi></m:msup></m:mrow><m:mrow><m:mi>j</m:mi><m:mo>!</m:mo></m:mrow></m:mfrac></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mi>j</m:mi></m:msup></m:mrow><m:mrow><m:mi>j</m:mi><m:mo>!</m:mo></m:mrow></m:mfrac></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  in column C (set c2 to =1 and c3 to = c2*b3/a3) and but the "partial sum to the j-th term" in column D. (set d2=d1+c2 and copy it down)
 </p><p>
 Setting 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  here is what I get
 </p><table><tgroup cols="4"><tbody><row><entry>
@@ -260,7 +260,7 @@ The results are
 </p><table><tgroup cols="4"><tbody><row><entry>
       <p>
       <d4p_eqn_inline>
-        <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></d4p_MathML>
+        <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></mathml>
       </d4p_eqn_inline>
       </p>
     </entry><entry>
@@ -526,9 +526,9 @@ The results are
     </entry></row></tbody></tgroup></table><p>
 <b>Additional Exercise: for
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>5</m:mn></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>5</m:mn></m:mrow></m:math></mathml>
   </d4p_eqn_inline> which is the largest term in the series? For
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>10</m:mn></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>10</m:mn></m:mrow></m:math></mathml>
   </d4p_eqn_inline>? In general?</b>
 </p></body></topic>

@@ -6,141 +6,141 @@
 </title><body><p>
 <b>Two points
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:math></mathml>
   </d4p_eqn_inline> and
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:math></mathml>
   </d4p_eqn_inline> on a line,
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></mathml>
   </d4p_eqn_inline>, determine
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></mathml>
   </d4p_eqn_inline>.</b>
 </p><p>
 <b>
   <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></mathml>
   </d4p_eqn_inline> can be described parametrically as the set of points with coordinates those of
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mrow><m:mi>O</m:mi><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>+</m:mo><m:mi>s</m:mi><m:mo>*</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mrow><m:mi>O</m:mi><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>+</m:mo><m:mi>s</m:mi><m:mo>*</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></mathml>
   </d4p_eqn_inline> for some number
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>s</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>s</m:mi></m:math></mathml>
   </d4p_eqn_inline>.</b>
 </p><p>
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 <b> is a vector which points in the direction of
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></mathml>
   </d4p_eqn_inline>.</b>
 </p><p>
 In two dimensions so that the vectors here are 2-vectors, there is only one direction perpendicular to 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></mathml>
 </d4p_eqn_inline>
 , and that direction can be obtained by switching the coordinates of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  and changing one sign, (thus 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mo>,</m:mo><m:mo>−</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>7</m:mn><m:mo>,</m:mo><m:mo>−</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  is perpendicular to 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mo>,</m:mo><m:mn>7</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  ).
 <br/>
 With 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mover accent="true"><m:mi>N</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mover accent="true"><m:mi>N</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover></m:math></mathml>
 </d4p_eqn_inline>
  the perpendicular vector, the equation of the line becomes 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>N</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>·</m:mo><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>=</m:mo><m:mover accent="true"><m:mi>N</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>·</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>N</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>·</m:mo><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>=</m:mo><m:mover accent="true"><m:mi>N</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>·</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 .
 </p><p>
 <b>We do this out explicitly
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></mathml>
   </d4p_eqn_inline> consists of the points obeying</b>
-</p><d4p_eqn_block>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>+</m:mo><m:mi>s</m:mi><m:mo>*</m:mo><m:mo stretchy="false">(</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
-</d4p_eqn_block><d4p_eqn_block>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo>+</m:mo><m:mi>s</m:mi><m:mo>*</m:mo><m:mo stretchy="false">(</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
-</d4p_eqn_block><p>
+</p><equation-block>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>+</m:mo><m:mi>s</m:mi><m:mo>*</m:mo><m:mo stretchy="false">(</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
+</equation-block><equation-block>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo>+</m:mo><m:mi>s</m:mi><m:mo>*</m:mo><m:mo stretchy="false">(</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
+</equation-block><p>
 and the equation for 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  is
-</p><d4p_eqn_block>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo stretchy="false">)</m:mo><m:mi>x</m:mi><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo stretchy="false">)</m:mo><m:mi>y</m:mi><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo stretchy="false">)</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo stretchy="false">)</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub></m:mrow></m:math></d4p_MathML>
-</d4p_eqn_block><p>
+</p><equation-block>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo stretchy="false">)</m:mo><m:mi>x</m:mi><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo stretchy="false">)</m:mo><m:mi>y</m:mi><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo stretchy="false">)</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:mo stretchy="false">(</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo stretchy="false">)</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub></m:mrow></m:math></mathml>
+</equation-block><p>
 which when solved for 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>y</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>y</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  is
 </p><p>
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>C</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>C</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  for some constant 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>C</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>C</m:mi></m:math></mathml>
 </d4p_eqn_inline>
 .
 </p><p>
 <b>The ratio
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>y</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>y</m:mi></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>P</m:mi><m:mrow><m:mn>2</m:mn><m:mi>x</m:mi></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>P</m:mi><m:mrow><m:mn>1</m:mn><m:mi>x</m:mi></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math></mathml>
   </d4p_eqn_inline>, the coefficient of
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></mathml>
   </d4p_eqn_inline> in the equation for the line, is the difference of
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>y</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>y</m:mi></m:math></mathml>
   </d4p_eqn_inline> coordinates of the two points divided by the difference in
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></mathml>
   </d4p_eqn_inline> coordinates.</b>
 It is called
 <b>the slope</b>
 of the
 <b>line
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></mathml>
   </d4p_eqn_inline>.</b>
 </p><p>
 The constant 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>C</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>C</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  is called the y-intercept of the line 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></mathml>
 </d4p_eqn_inline>
 . It is the value of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>y</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>y</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  on 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  where 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>L</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  meets the 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>y</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>y</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  axis.
 </p><p>
@@ -156,31 +156,31 @@ The constant
 </p><p>
 In three dimensions, a line is determined by two equations. You can describe it as above parametrically (though now all points and vectors have three components), but you must find two vectors normal to 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  to find equations that characterize it. You have infinite choice in doing so, but two convenient choices are
-</p><d4p_eqn_block>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>i</m:mi><m:mo stretchy="true">^</m:mo></m:mover><m:mo>×</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></d4p_MathML>
-</d4p_eqn_block><p>
+</p><equation-block>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>i</m:mi><m:mo stretchy="true">^</m:mo></m:mover><m:mo>×</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></mathml>
+</equation-block><p>
 and
-</p><d4p_eqn_block>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>j</m:mi><m:mo stretchy="true">^</m:mo></m:mover><m:mo>×</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></d4p_MathML>
-</d4p_eqn_block><p>
+</p><equation-block>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>j</m:mi><m:mo stretchy="true">^</m:mo></m:mover><m:mo>×</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover></m:mrow></m:math></mathml>
+</equation-block><p>
 and you can require that the dot product of
 <b>each</b>
 of these
 <b/>
 with 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover></m:math></mathml>
 </d4p_eqn_inline>
  (recall 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mo>,</m:mo><m:mi>z</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mo>,</m:mo><m:mi>z</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  ) is what it is with 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 . This gives you two equations which together determine the line.
 </p><p>

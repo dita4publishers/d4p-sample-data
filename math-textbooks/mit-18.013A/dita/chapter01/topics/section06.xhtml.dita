@@ -7,16 +7,16 @@ What are
 </p><p>
 Take a function f: draw its graph in the usual way; interchange x and y axes, and you have the graph of the inverse function 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 .
 <br/>
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  means 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 .
 </p><p>
@@ -26,19 +26,19 @@ Do not confuse the inverse with the reciprocal function; they are completely dif
 </p><p>
 Notice that if you substitute 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  into 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>y</m:mi><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  you get 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 . This last equation can be used as an alternate definition of the inverse function to 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
 </d4p_eqn_inline>
 .
 </p><p>
@@ -46,39 +46,39 @@ There is a problem with defining inverse functions. A function can have only one
 </p><p>
 When a function takes a value more than once, we have to do extra work to define an inverse function for it. Namely, we have to select one of its values to be the new argument and throw away the others. This can be done in many different ways when f is not single valued, so that there is always some arbitrariness in the definition of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  when f is not single valued.
 </p><p>
 The clearest example for this is the function 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 . It takes on each positive value twice. Both 4 and -4 have the same square. The standard thing to do for this function is to define its inverse, 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 , to be the positive square root, ignoring the negative one. (The negative square root is then denoted by 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo>−</m:mo><m:msup><m:mi>x</m:mi><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo>−</m:mo><m:msup><m:mi>x</m:mi><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 .) This definition has two virtues: one is that positive numbers are more positive than negative ones. The other is, that with this definition (and not had we chosen the negative root as inverse) the square root of a product is the product of the square roots of its factors.
 </p><p>
 In general, you can make the choice of what you want to call the inverse of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  by looking at the graph of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
 </d4p_eqn_inline>
 , selecting a domain on which 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  is single-valued, and making that the range of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 .
 <br/>
@@ -87,43 +87,43 @@ Some interesting pairs:
 </p><bodydiv outputclass="table"><bodydiv outputclass="tr"><bodydiv outputclass="td"> </bodydiv><bodydiv outputclass="td">
       <table><tgroup cols="2"><tbody><row><entry>
             <d4p_eqn_inline>
-              <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+              <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
             </d4p_eqn_inline>
           </entry><entry>
             <d4p_eqn_inline>
-              <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+              <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>f</m:mi><m:mrow><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msup><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
             </d4p_eqn_inline>
           </entry></row><row><entry>
             <d4p_eqn_inline>
-              <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mi>k</m:mi></m:msup></m:mrow></m:math></d4p_MathML>
+              <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mi>k</m:mi></m:msup></m:mrow></m:math></mathml>
             </d4p_eqn_inline>
           </entry><entry>
             <d4p_eqn_inline>
-              <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>y</m:mi><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:mi>k</m:mi></m:mrow></m:msup></m:mrow></m:math></d4p_MathML>
+              <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>y</m:mi><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:mi>k</m:mi></m:mrow></m:msup></m:mrow></m:math></mathml>
             </d4p_eqn_inline>
           </entry></row><row><entry>
             <d4p_eqn_inline>
-              <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>exp</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></d4p_MathML>
+              <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>exp</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></mathml>
             </d4p_eqn_inline>
           </entry><entry>
             <d4p_eqn_inline>
-              <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>ln</m:mi><m:mo>⁡</m:mo><m:mi>y</m:mi></m:mrow></m:math></d4p_MathML>
+              <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>ln</m:mi><m:mo>⁡</m:mo><m:mi>y</m:mi></m:mrow></m:math></mathml>
             </d4p_eqn_inline>
           </entry></row><row><entry>
             <d4p_eqn_inline>
-              <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></d4p_MathML>
+              <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></mathml>
             </d4p_eqn_inline>
           </entry><entry>
             <d4p_eqn_inline>
-              <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>arcsin</m:mi><m:mo>⁡</m:mo><m:mi>y</m:mi></m:mrow></m:math></d4p_MathML>
+              <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>arcsin</m:mi><m:mo>⁡</m:mo><m:mi>y</m:mi></m:mrow></m:math></mathml>
             </d4p_eqn_inline>
           </entry></row><row><entry>
             <d4p_eqn_inline>
-              <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>tan</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></d4p_MathML>
+              <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>tan</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></mathml>
             </d4p_eqn_inline>
           </entry><entry>
             <d4p_eqn_inline>
-              <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>arctan</m:mi><m:mo>⁡</m:mo><m:mi>y</m:mi></m:mrow></m:math></d4p_MathML>
+              <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>arctan</m:mi><m:mo>⁡</m:mo><m:mi>y</m:mi></m:mrow></m:math></mathml>
             </d4p_eqn_inline>
           </entry></row></tbody></tgroup></table>
     </bodydiv></bodydiv></bodydiv><p>
@@ -139,10 +139,10 @@ Some interesting pairs:
 </p><p>
 <b>Exercises 1.8 For what values can you define the inverse of the function 
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>cos</m:mi><m:mo>⁡</m:mo><m:mo stretchy="false">(</m:mo><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>cos</m:mi><m:mo>⁡</m:mo><m:mo stretchy="false">(</m:mo><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
   </d4p_eqn_inline>. (Hint: set
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mi>cos</m:mi><m:mo>⁡</m:mo><m:mo stretchy="false">(</m:mo><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mo>=</m:mo><m:mi>cos</m:mi><m:mo>⁡</m:mo><m:mo stretchy="false">(</m:mo><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
   </d4p_eqn_inline> look at its inverse and figure out the answer.) <ph outputclass="a">Solution</ph>
 </b>
 </p><p>

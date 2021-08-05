@@ -14,13 +14,16 @@
             3.09 × 10<sup>16</sup>m.)</p>
           <table>
             <title>Table 2</title>
-            <tgroup cols="2">
-               <tbody>
+            <tgroup cols="3">
+              <colspec colname="c1"/>
+              <colspec colname="c2"/>
+              <colspec colname="c3"/>
+              <tbody>
                   <row>
                      <entry outputclass="th">
                         <b/>
                      </entry>
-                     <entry outputclass="th">
+                     <entry outputclass="th" namest="c2" nameend="c3">
                         <b>Distance</b>
                      </entry>
                   </row>

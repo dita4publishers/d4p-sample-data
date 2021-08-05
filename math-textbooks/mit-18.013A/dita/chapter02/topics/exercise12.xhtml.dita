@@ -4,60 +4,60 @@
 <topic id="d1e59"><title>Exercise 2.12</title><body><p>
 <b>Set up a spreadsheet to compute the
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></mathml>
   </d4p_eqn_inline> for any inputted
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></mathml>
   </d4p_eqn_inline>. How many terms in the
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></mathml>
   </d4p_eqn_inline> power series expansion do you need to evaluate
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mn>.5</m:mn></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mn>.5</m:mn></m:mrow></m:math></mathml>
   </d4p_eqn_inline> to 8 decimal places?</b>
 </p><p>
 Solution:
 </p><p>
 The power series expansion of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  consists of the odd power terms in the expansion of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>exp</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>exp</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 , with alternating signs,
-</p><d4p_eqn_block>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>x</m:mi><m:mo>−</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:mo>!</m:mo></m:mrow></m:mfrac><m:mo>+</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>5</m:mn></m:msup></m:mrow><m:mrow><m:mn>5</m:mn><m:mo>!</m:mo></m:mrow></m:mfrac><m:mo>−</m:mo><m:mo>⋯</m:mo></m:mrow></m:math></d4p_MathML>
-</d4p_eqn_block><p>
+</p><equation-block>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>x</m:mi><m:mo>−</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup></m:mrow><m:mrow><m:mn>3</m:mn><m:mo>!</m:mo></m:mrow></m:mfrac><m:mo>+</m:mo><m:mfrac><m:mrow><m:msup><m:mi>x</m:mi><m:mn>5</m:mn></m:msup></m:mrow><m:mrow><m:mn>5</m:mn><m:mo>!</m:mo></m:mrow></m:mfrac><m:mo>−</m:mo><m:mo>⋯</m:mo></m:mrow></m:math></mathml>
+</equation-block><p>
 We can set up a spreadsheet to compute it in many ways, and here is one.
 </p><p>
 We will do almost the same thing as done for 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>exp</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>exp</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  in column A we will put 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>j</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>j</m:mi></m:math></mathml>
 </d4p_eqn_inline>
 ; and 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>j</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>j</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  will start at 1 and go up by 2 in each successive row. We will put 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  in the first row of column B and 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo>−</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo>−</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  in successive rows, and multiply previous C entry by entry in B and divide by entry in A and by entry in A, minus 1.
 </p><p>
 We will get the following formulae in the spreadsheet
 </p><table><tgroup cols="4"><tbody><row><entry>
       <d4p_eqn_inline>
-        <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></d4p_MathML>
+        <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></mathml>
       </d4p_eqn_inline>
     </entry><entry>
       <p>
@@ -65,7 +65,7 @@ We will get the following formulae in the spreadsheet
       </p>
     </entry><entry>
       <d4p_eqn_inline>
-        <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></d4p_MathML>
+        <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></mathml>
       </d4p_eqn_inline>
     </entry><entry>  </entry></row><row><entry>
       <p>
@@ -407,7 +407,7 @@ We will get the following formulae in the spreadsheet
 The numerical results will be
 </p><table><tgroup cols="4"><tbody><row><entry>
       <d4p_eqn_inline>
-        <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></d4p_MathML>
+        <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></mathml>
       </d4p_eqn_inline>
     </entry><entry>
       <p>
@@ -415,7 +415,7 @@ The numerical results will be
       </p>
     </entry><entry>
       <d4p_eqn_inline>
-        <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></d4p_MathML>
+        <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></mathml>
       </d4p_eqn_inline>
     </entry><entry>  </entry></row><row><entry>
       <p>
@@ -580,7 +580,7 @@ The numerical results will be
     </entry></row></tbody></tgroup></table><p>
 You can see that the first 4 terms by themselves give 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mn>.5</m:mn></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mn>.5</m:mn></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  correctly to 8 decimal places.
 </p></body></topic>

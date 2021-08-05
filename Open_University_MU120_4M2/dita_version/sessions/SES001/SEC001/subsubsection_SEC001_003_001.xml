@@ -49,14 +49,18 @@
                   <b>2</b> Some of the entries in the following table are incorrect. Identify the
                   errors and write down the correct rounding.</p>
                 <table>
-                  <title/>
-                  <tgroup cols="2">
-                     <tbody>
+                  <title/>                  
+                  <tgroup cols="4">
+                    <colspec colname="c1"/>
+                    <colspec colname="c2"/>
+                    <colspec colname="c3"/>
+                    <colspec colname="c4"/>
+                    <tbody>
                         <row>
                            <entry outputclass="th">
                               <b/>
                            </entry>
-                           <entry outputclass="th">
+                           <entry outputclass="th" namest="c2" nameend="c4">
                               <b>Rounded to nearest</b>
                            </entry>
                         </row>
@@ -102,13 +106,17 @@
                 <p>The corrected entries are in bold.</p>
                 <table>
                   <title/>
-                  <tgroup cols="2">
-                     <tbody>
+                    <tgroup cols="4">
+                      <colspec colname="c1"/>
+                      <colspec colname="c2"/>
+                      <colspec colname="c3"/>
+                      <colspec colname="c4"/>
+                      <tbody>
                         <row>
                            <entry outputclass="th">
                               <b/>
                            </entry>
-                           <entry outputclass="th">
+                           <entry outputclass="th" namest="c2" nameend="c4">
                               <b>Rounded to nearest</b>
                            </entry>
                         </row>

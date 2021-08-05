@@ -8,7 +8,7 @@
   to it. Try doing this with some quadratics, and find another for which we get 
   a solution, and one which we don't. What happens with the cubic </b>
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mi>x</m:mi><m:mn>3</m:mn></m:msup><m:mo>=</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mn>1</m:mn></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 <b>?</b>
 </p><p>

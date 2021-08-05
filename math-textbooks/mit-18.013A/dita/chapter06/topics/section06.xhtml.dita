@@ -4,8 +4,8 @@
 <topic id="d1e56"><title>6.6 The Gradient and Directional Derivatives</title><body><p>
 We have seen above that the 2-vector
 </p>
-  <d4p_eqn_block>
-    <d4p_MathML>
+  <equation-block>
+    <mathml>
       <m:math display="block">
         <m:mrow>
           <m:msub>
@@ -55,169 +55,169 @@ We have seen above that the 2-vector
         </m:mrow>
       </m:math>
       
-    </d4p_MathML>
-  </d4p_eqn_block>
+    </mathml>
+  </equation-block>
   <p>
 is called the
 <b>gradient of
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
   </d4p_eqn_inline> at argument 
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
   </d4p_eqn_inline>
 </b>
 and that it is generally written as 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  or 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mo>∇</m:mo><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mo>∇</m:mo><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 .
 </p><p>
 The equation for the tangent plane to the surface defined by 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  at 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  can be described in terms of the gradient as
-</p><d4p_eqn_block>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mi>L</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi><m:mo stretchy="false">)</m:mo><m:mo>·</m:mo><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>−</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>r</m:mi><m:mn>0</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
-</d4p_eqn_block><p>
+</p><equation-block>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mi>L</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi><m:mo stretchy="false">)</m:mo><m:mo>·</m:mo><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>−</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>r</m:mi><m:mn>0</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
+</equation-block><p>
 From this equation we can deduce that a normal to this tangent plane is in the direction in the three dimensional space whose coordinates represent 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mi>f</m:mi><m:mi>L</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mi>f</m:mi><m:mi>L</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi><m:mo>,</m:mo><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi><m:mo>,</m:mo><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 .
 </p><p>
 The projection of this normal into the 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  plane is the vector 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  itself.
 </p><p>
 Thus, 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 <b>is in the direction of the projection of the normal 
   to the tangent plane to
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
   </d4p_eqn_inline> at
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
   </d4p_eqn_inline> into the
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
   </d4p_eqn_inline> plane.</b>
 </p><p>
 This relationship can be seen in the applet below.
 </p><p>
 The symbol 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mover accent="true"><m:mo>∇</m:mo><m:mo stretchy="true">⟶</m:mo></m:mover></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mover accent="true"><m:mo>∇</m:mo><m:mo stretchy="true">⟶</m:mo></m:mover></m:math></mathml>
 </d4p_eqn_inline>
 <b> is called "del".</b>
 It is a strange thing called a vector operator. By itself it makes about as much sense as the noise of one hand clapping. But put next to something that the derivatives in it can act on, it makes perfect sense.
 </p><p>
 The equation for the linear approximation 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mi>L</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mi>L</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  to 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  at 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  allows us to compute the directional derivatives of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  at that point.
 </p><p>
 Suppose we seek the directional derivative of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  in a direction defined by unit vector 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>u</m:mi><m:mo stretchy="true">^</m:mo></m:mover></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>u</m:mi><m:mo stretchy="true">^</m:mo></m:mover></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 . Then if 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>−</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>r</m:mi><m:mn>0</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>=</m:mo><m:mi>s</m:mi><m:mover accent="true"><m:mi>u</m:mi><m:mo stretchy="true">^</m:mo></m:mover></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>−</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>r</m:mi><m:mn>0</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>=</m:mo><m:mi>s</m:mi><m:mover accent="true"><m:mi>u</m:mi><m:mo stretchy="true">^</m:mo></m:mover></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 , the directional derivative of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  (which is close to 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mi>L</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mi>L</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  near 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  ) in that direction is the derivative of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mi>L</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mi>L</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  with respect to 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>s</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>s</m:mi></m:math></mathml>
 </d4p_eqn_inline>
 .
 </p><p>
 But we have
-</p><d4p_eqn_block>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mi>L</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi><m:mo stretchy="false">)</m:mo><m:mo>·</m:mo><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>−</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>r</m:mi><m:mn>0</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi><m:mo stretchy="false">)</m:mo><m:mo>·</m:mo><m:mi>s</m:mi><m:mover accent="true"><m:mi>u</m:mi><m:mo stretchy="true">^</m:mo></m:mover></m:mrow></m:math></d4p_MathML>
-</d4p_eqn_block><p>
+</p><equation-block>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mi>L</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi><m:mo stretchy="false">)</m:mo><m:mo>·</m:mo><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo>−</m:mo><m:mover accent="true"><m:mrow><m:msub><m:mi>r</m:mi><m:mn>0</m:mn></m:msub></m:mrow><m:mo stretchy="true">⟶</m:mo></m:mover><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>f</m:mi><m:mo stretchy="false">(</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>,</m:mo><m:msub><m:mi>y</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo><m:mo>+</m:mo><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi><m:mo stretchy="false">)</m:mo><m:mo>·</m:mo><m:mi>s</m:mi><m:mover accent="true"><m:mi>u</m:mi><m:mo stretchy="true">^</m:mo></m:mover></m:mrow></m:math></mathml>
+</equation-block><p>
 so that 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mi>L</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>f</m:mi><m:mi>L</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  's derivative with respect to 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>s</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>s</m:mi></m:math></mathml>
 </d4p_eqn_inline>
 ,
 <b>the directional derivative of
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
   </d4p_eqn_inline> in the direction of
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>u</m:mi><m:mo stretchy="true">^</m:mo></m:mover></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>u</m:mi><m:mo stretchy="true">^</m:mo></m:mover></m:mrow></m:math></mathml>
   </d4p_eqn_inline>, is given by </b>
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi><m:mo stretchy="false">)</m:mo><m:mo>·</m:mo><m:mover accent="true"><m:mi>u</m:mi><m:mo stretchy="true">^</m:mo></m:mover></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo stretchy="false">(</m:mo><m:mover accent="true"><m:mtext>grad</m:mtext><m:mo stretchy="true">⟶</m:mo></m:mover><m:mi>f</m:mi><m:mo stretchy="false">)</m:mo><m:mo>·</m:mo><m:mover accent="true"><m:mi>u</m:mi><m:mo stretchy="true">^</m:mo></m:mover></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 .
 </p><p>
 If 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  were a function of more variables, say 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mo>,</m:mo><m:mi>z</m:mi><m:mo>,</m:mo><m:mi>t</m:mi><m:mo>,</m:mo><m:mo>…</m:mo></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>,</m:mo><m:mi>y</m:mi><m:mo>,</m:mo><m:mi>z</m:mi><m:mo>,</m:mo><m:mi>t</m:mi><m:mo>,</m:mo><m:mo>…</m:mo></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  we can use exactly the same approach to describe changes, the only difference being that the tangent plane becomes the tangent hyper-plane, and there are partial derivatives in more directions. The conclusions are exactly the same:
 </p><p>
@@ -230,7 +230,7 @@ If
 <b>3. The component of the gradient vector in the direction of any axis is 
   the partial derivative of
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>f</m:mi></m:math></mathml>
   </d4p_eqn_inline> with respect to the corresponding distance variable in that direction. </b>
 </p><p>
 <b>4. That partial derivative is the ordinary derivative with respect to that 

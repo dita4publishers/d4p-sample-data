@@ -4,7 +4,7 @@
 <topic id="d1e59"><title>Exercise 2.3</title><body><p>
 <b>For
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math></mathml>
   </d4p_eqn_inline>, how many terms do you need to get 10 place accuracy?</b>
 </p><p>
 Solution:
@@ -13,7 +13,7 @@ From the table in
 <ph outputclass="a">exercise 2.2</ph>
 you need up to the 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>j</m:mi><m:mo>=</m:mo><m:mn>12</m:mn></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>j</m:mi><m:mo>=</m:mo><m:mn>12</m:mn></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  term (which is the thirteenth).
 </p></body></topic>

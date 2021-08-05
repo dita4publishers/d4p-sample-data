@@ -6,8 +6,8 @@ the logic and techniques of forming proofs. It is not meant to be read
 straight through, but you should head here when you need to review these
 ideas.
 </p><p>   We choose to expand the set of scalars from the real numbers,
-<d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msup><m:mrow><m:mi>ℝ</m:mi></m:mrow><m:mrow/></m:msup></m:math></d4p_MathML></d4p_eqn_inline>, to the set of
-complex numbers, <d4p_eqn_inline><d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msup><m:mrow><m:mi>ℂ</m:mi></m:mrow><m:mrow/></m:msup></m:math></d4p_MathML></d4p_eqn_inline>.
+<d4p_eqn_inline><mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msup><m:mrow><m:mi>ℝ</m:mi></m:mrow><m:mrow/></m:msup></m:math></mathml></d4p_eqn_inline>, to the set of
+complex numbers, <d4p_eqn_inline><mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:msup><m:mrow><m:mi>ℂ</m:mi></m:mrow><m:mrow/></m:msup></m:math></mathml></d4p_eqn_inline>.
 So basic operations with complex numbers (like addition and division) will be
 necessary. This can be safely postponed until your arrival in <xref keyref="fcla-xml-2.30li28/section.O">Section O</xref>, and a
 refresher before <xref keyref="fcla-xml-2.30li46/chapter.E">Chapter E</xref> would be a good idea as well.

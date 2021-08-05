@@ -20,27 +20,27 @@ The determinant changes sign if two of its columns are interchanged.
 </p><p>
 As a function of a single element 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msub><m:mi>a</m:mi><m:mrow><m:mi>i</m:mi><m:mi>j</m:mi></m:mrow></m:msub></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msub><m:mi>a</m:mi><m:mrow><m:mi>i</m:mi><m:mi>j</m:mi></m:mrow></m:msub></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 , the determinant has the form 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>det</m:mi><m:mo>⁡</m:mo><m:mo stretchy="false">(</m:mo><m:mi>A</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>r</m:mi><m:msub><m:mi>a</m:mi><m:mrow><m:mi>i</m:mi><m:mi>j</m:mi></m:mrow></m:msub><m:mo>+</m:mo><m:mi>s</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>det</m:mi><m:mo>⁡</m:mo><m:mo stretchy="false">(</m:mo><m:mi>A</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>r</m:mi><m:msub><m:mi>a</m:mi><m:mrow><m:mi>i</m:mi><m:mi>j</m:mi></m:mrow></m:msub><m:mo>+</m:mo><m:mi>s</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 ; (it is a linear function with an inhomogeneous term.)
 </p><p>
 The coefficient 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>r</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>r</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  is the ij-
 <b>cofactor:</b>
 the determinant of the matrix obtained by removing i-th column and j-th row from 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>A</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>A</m:mi></m:math></mathml>
 </d4p_eqn_inline>
 , multiplied by 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mi>i</m:mi><m:mo>+</m:mo><m:mi>j</m:mi></m:mrow></m:msup></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mo>−</m:mo><m:mn>1</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mi>i</m:mi><m:mo>+</m:mo><m:mi>j</m:mi></m:mrow></m:msup></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 .
 </p><p>
@@ -48,7 +48,7 @@ The determinant can be evaluated by row reduction or by expanding on a column or
 </p><p>
 The vector product of two vectors is the vector obtained by making their components the first two columns of a matrix with 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>i</m:mi><m:mo stretchy="true">^</m:mo></m:mover><m:mo>,</m:mo><m:mover accent="true"><m:mi>j</m:mi><m:mo stretchy="true">^</m:mo></m:mover><m:mo>,</m:mo><m:mover accent="true"><m:mi>k</m:mi><m:mo stretchy="true">^</m:mo></m:mover></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mover accent="true"><m:mi>i</m:mi><m:mo stretchy="true">^</m:mo></m:mover><m:mo>,</m:mo><m:mover accent="true"><m:mi>j</m:mi><m:mo stretchy="true">^</m:mo></m:mover><m:mo>,</m:mo><m:mover accent="true"><m:mi>k</m:mi><m:mo stretchy="true">^</m:mo></m:mover></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  the third column, and taking its determinant.
 </p><p>
@@ -60,41 +60,41 @@ A plane in three dimensions can be described by an equation or its points can be
 </p><p>
 If the equation of a plane is 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mi>z</m:mi><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>y</m:mi><m:mo>+</m:mo><m:mi>c</m:mi><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>d</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>a</m:mi><m:mi>z</m:mi><m:mo>+</m:mo><m:mi>b</m:mi><m:mi>y</m:mi><m:mo>+</m:mo><m:mi>c</m:mi><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>d</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 , its equation can also be written as 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>z</m:mi><m:mo>=</m:mo><m:mo>−</m:mo><m:mfrac><m:mi>b</m:mi><m:mi>a</m:mi></m:mfrac><m:mi>x</m:mi><m:mo>−</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>a</m:mi></m:mfrac><m:mi>y</m:mi><m:mo>+</m:mo><m:mfrac><m:mi>d</m:mi><m:mi>a</m:mi></m:mfrac></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>z</m:mi><m:mo>=</m:mo><m:mo>−</m:mo><m:mfrac><m:mi>b</m:mi><m:mi>a</m:mi></m:mfrac><m:mi>x</m:mi><m:mo>−</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>a</m:mi></m:mfrac><m:mi>y</m:mi><m:mo>+</m:mo><m:mfrac><m:mi>d</m:mi><m:mi>a</m:mi></m:mfrac></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 .
 </p><p>
 The quantities 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo>−</m:mo><m:mfrac><m:mi>b</m:mi><m:mi>a</m:mi></m:mfrac></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo>−</m:mo><m:mfrac><m:mi>b</m:mi><m:mi>a</m:mi></m:mfrac></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  and 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo>−</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>a</m:mi></m:mfrac></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo>−</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>a</m:mi></m:mfrac></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  are called the slopes of 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>z</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>z</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  in the 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  and 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>y</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>y</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  directions respectively. In two dimensions there is no 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>z</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>z</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  and the slope is similarly 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo>−</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mo>−</m:mo><m:mfrac><m:mi>c</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 .
 </p></body></topic>

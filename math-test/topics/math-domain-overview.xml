@@ -15,15 +15,15 @@
     <body>
       <p>The D4P math domain provides the following elements:<dl>
         <dlentry>
-          <dt><xmlelem>d4p_MathML</xmlelem></dt>
+          <dt><xmlelement>d4p_MathML</xmlelement></dt>
           <dd>Container for MathML markup. As currently configured, the MathML
             markup must use the "m:" namespace prefix.</dd>
         </dlentry>
         <dlentry>
-          <dt><xmlelem>d4p_eqn_inline</xmlelem></dt>
-          <dd>Holds an inline equation (specializes from <xmlelem>ph</xmlelem>).
-            The content may include <xmlelem>d4p_MathML</xmlelem>.<p>Sample: <d4p_eqn_inline>
-              <d4p_MathML><!-- MathType@Translator@5@5@MathML2 (m namespace).tdl@MathML 2.0 (m namespace)@ -->
+          <dt><xmlelement>d4p_eqn_inline</xmlelement></dt>
+          <dd>Holds an inline equation (specializes from <xmlelement>ph</xmlelement>).
+            The content may include <xmlelement>d4p_MathML</xmlelement>.<p>Sample: <equation-inline>
+              <mathml><!-- MathType@Translator@5@5@MathML2 (m namespace).tdl@MathML 2.0 (m namespace)@ -->
                 <m:math display='block'>
                   <m:semantics>
                     <m:mrow>
@@ -46,13 +46,13 @@
                   </m:semantics>
                 </m:math>
                 <!-- MathType@End@5@5@ -->
-              </d4p_MathML>
-            </d4p_eqn_inline></p></dd>
+              </mathml>
+            </equation-inline></p></dd>
         </dlentry>
         <dlentry>
-          <dt><xmlelem>d4p_eqn_block</xmlelem></dt>
-          <dd>Holds a block equation (specializes from <xmlelem>p</xmlelem>).
-            The content may include <xmlelem>d4p_MathML</xmlelem>.
+          <dt><xmlelement>d4p_eqn_block</xmlelement></dt>
+          <dd>Holds a block equation (specializes from <xmlelement>p</xmlelement>).
+            The content may include <xmlelement>d4p_MathML</xmlelement>.
             <d4p_eqn_block>
               <d4p_MathML><m:math display="block">
                 <m:mrow>
@@ -113,16 +113,16 @@
           </dd>
         </dlentry>
         <dlentry>
-          <dt><xmlelem>d4p_display-equation</xmlelem></dt>
-          <dd>Specialization of <xmlelem>fig</xmlelem>. Provides for easy
+          <dt><xmlelement>d4p_display-equation</xmlelement></dt>
+          <dd>Specialization of <xmlelement>fig</xmlelement>. Provides for easy
             numbering and listing of equations separate from other figures.
-            Content is identical to <xmlelem>fig</xmlelem>. Because
-            <xmlelem>fig</xmlelem> allows <xmlelem>foreign</xmlelem>, it may
-            include <xmlelem>d4p_MathML</xmlelem>.</dd>
+            Content is identical to <xmlelement>fig</xmlelement>. Because
+            <xmlelement>fig</xmlelement> allows <xmlelement>foreign</xmlelement>, it may
+            include <xmlelement>d4p_MathML</xmlelement>.</dd>
         </dlentry>
         </dl></p>
       <p>Here is a display equation containing an
-        <xmlelem>d4p_eqn_block</xmlelem> element:</p>
+        <xmlelement>d4p_eqn_block</xmlelement> element:</p>
       <fig></fig>
       <d4p_display-equation>
         <title>First Sample Equation</title>

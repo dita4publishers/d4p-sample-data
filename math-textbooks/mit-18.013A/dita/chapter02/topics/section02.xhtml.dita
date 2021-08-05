@@ -7,7 +7,7 @@ Sine is opposite over hypotenuse in a right triangle.
 <b>If the hypotenuse has length 1</b>
 then 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
  is the length of the opposite face of the triangle.
 <br/>
@@ -19,20 +19,20 @@ Thus, for small angles the sine is slightly smaller than the angle itself, measu
 The
 <b>Sine of the complementary angle to
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></mathml>
   </d4p_eqn_inline>
 </b>
 is called cosine 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>x</m:mi></m:math></mathml>
 </d4p_eqn_inline>
  and is written as 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>cos</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>cos</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
-</p><d4p_eqn_block>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mo stretchy="false">(</m:mo><m:mfrac><m:mi>π</m:mi><m:mn>2</m:mn></m:mfrac><m:mo>−</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>cos</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></d4p_MathML>
-</d4p_eqn_block><p>
+</p><equation-block>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="block" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mo stretchy="false">(</m:mo><m:mfrac><m:mi>π</m:mi><m:mn>2</m:mn></m:mfrac><m:mo>−</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>cos</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi></m:mrow></m:math></mathml>
+</equation-block><p>
 The following applet can help you visualize the fact that sine and cosine represent x and y component of position on a unit circle, as a function of angle, measured in radians. The picture beneath it shows the meaning of the magnitudes of the various trigonometric functions as lengths of lines in the picture.
 </p><p>
  
@@ -56,37 +56,37 @@ They are related to one another as can be deduced from the picture by looking at
 <br/>
 The angles OAC, OBE, and DBC are all the same as 
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>θ</m:mi></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mi>θ</m:mi></m:math></mathml>
 </d4p_eqn_inline>
 .
 </p><p>
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>D</m:mi><m:mi>B</m:mi><m:mo>=</m:mo><m:mi>O</m:mi><m:mi>E</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sin</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>D</m:mi><m:mi>B</m:mi><m:mo>=</m:mo><m:mi>O</m:mi><m:mi>E</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 ,
 <br/>
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>tan</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>B</m:mi><m:mi>C</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>tan</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>B</m:mi><m:mi>C</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 ,
 <br/>
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sec</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>O</m:mi><m:mi>C</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>sec</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>O</m:mi><m:mi>C</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 ,
 <br/>
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>cos</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>O</m:mi><m:mi>D</m:mi><m:mo>=</m:mo><m:mi>E</m:mi><m:mi>B</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>cos</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>O</m:mi><m:mi>D</m:mi><m:mo>=</m:mo><m:mi>E</m:mi><m:mi>B</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 ,
 <br/>
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>cot</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>cot</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>A</m:mi><m:mi>B</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 ,
 <br/>
 <d4p_eqn_inline>
-  <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>csc</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>O</m:mi><m:mi>A</m:mi></m:mrow></m:math></d4p_MathML>
+  <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:mi>csc</m:mi><m:mo>⁡</m:mo><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>O</m:mi><m:mi>A</m:mi></m:mrow></m:math></mathml>
 </d4p_eqn_inline>
 </p><p>
 Thus the
@@ -114,7 +114,7 @@ of an angle in that quadrant is the length of the line from its center to the in
 </p><p>
 <b>2.8 Find an alternative expression for
 <d4p_eqn_inline>
-    <d4p_MathML><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>tan</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>cot</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></d4p_MathML>
+    <mathml><m:math xmlns:m="http://www.w3.org/1998/Math/MathML" display="inline" overflow="scroll"><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>tan</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi><m:mo>+</m:mo><m:mi>cot</m:mi><m:mo>⁡</m:mo><m:mi>x</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></mathml>
   </d4p_eqn_inline>. <ph outputclass="a">Solution</ph>
 </b>
 </p><p>
